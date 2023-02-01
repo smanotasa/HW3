@@ -25,8 +25,8 @@ The download option allows students to download immediately on opening the targe
 
 #geko_path = '/Users/luisignaciomenendezgarcia/MEGA/Portatil_mega/conflictforecast/regional_trials/geckodriver'
 #download_path = '/Users/luisignaciomenendezgarcia/Dropbox/CLASSES/class_scraping_bse/resolutions'
-geko_path = r'C:\Users\santi\Documents\M_DSDM\Term_2\Text_Mining\HW3\geckodriver.exe'
-download_path = r"C:\Users\santi\Documents\M_DSDM\Term_2\Text_Mining\HW3\resolutions"
+#geko_path = r'C:\Users\santi\Documents\M_DSDM\Term_2\Text_Mining\HW3\geckodriver.exe'
+#download_path = r"C:\Users\santi\Documents\M_DSDM\Term_2\Text_Mining\HW3\resolutions"
 
 def start_up(dfolder, links, download):
     # check whether I moved to next step; otherwise repeat it:
