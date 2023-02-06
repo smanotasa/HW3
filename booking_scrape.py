@@ -1,6 +1,5 @@
 #%%
 #!pip3 install -r requirements.txt
-import dropbox
 from selenium.webdriver.common.keys import Keys
 # auxiliary functions modified by Luis.
 import scrape_functions as kzd
@@ -20,7 +19,7 @@ from datetime import date
 # %% Starting code
 
 
-geko_path = r'C:\Users\santi\Documents\M_DSDM\Term_2\Text_Mining\HW3\geckodriver.exe'
+geko_path = '/Users/luisquinonespr/code/text_mining/pset3/HW3/geckodriver'
 
 
 profile, browser, download_path = kzd.start_up()
@@ -32,7 +31,7 @@ time.sleep(3)
 
 #%%
 place = input('Where do you want to go?')
-search1 = browser.find_element('xpath','//input[@placeholder="¿Adónde vas?"]')
+search1 = browser.find_element('xpath','//input[@placeholder="¿Where do you want to go?"]')
 search1.send_keys(place)
 #%%
 #__bui-c969239-1
@@ -106,7 +105,7 @@ time.sleep(2)
 
 def get_number_pages(browser):
     '''
-    Get the number of pages. 
+    Get the number of pages.
     '''
     a = browser.find_elements('xpath',
         '//button[text() and @class="fc63351294 f9c5690c58"]')
@@ -119,4 +118,4 @@ pages = get_number_pages(browser)
 
 #
 #
-# 
+#

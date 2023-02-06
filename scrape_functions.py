@@ -13,7 +13,7 @@ import csv
 import itertools
 import os
 
-   
+
 """
 Code with scrape function.
 
@@ -25,8 +25,11 @@ The download option allows students to download immediately on opening the targe
 
 #geko_path = '/Users/luisignaciomenendezgarcia/MEGA/Portatil_mega/conflictforecast/regional_trials/geckodriver'
 #download_path = '/Users/luisignaciomenendezgarcia/Dropbox/CLASSES/class_scraping_bse/resolutions'
-geko_path = r'C:\Users\santi\Documents\M_DSDM\Term_2\Text_Mining\HW3\geckodriver.exe'
-download_path = r"C:\Users\santi\Documents\M_DSDM\Term_2\Text_Mining\HW3\resolutions"
+#geko_path = r'C:\Users\santi\Documents\M_DSDM\Term_2\Text_Mining\HW3\geckodriver.exe'
+#download_path = r"C:\Users\santi\Documents\M_DSDM\Term_2\Text_Mining\HW3\resolutions"
+
+geko_path = '/Users/luisquinonespr/code/text_mining/pset3/HW3/geckodriver'
+download_path = '/Users/luisquinonespr/code/text_mining/pset3/HW3/resolutions'
 
 def start_up(dfolder, links, download):
     # check whether I moved to next step; otherwise repeat it:
@@ -36,7 +39,7 @@ def start_up(dfolder, links, download):
     # open browser and set up its preferences:
     option = webdriver.FirefoxOptions()
     #option.binary_location = 'C:\\Program Files\\Mozilla Firefox\\firefox.exe'
-    driverService = Service(r'C:\Users\santi\Documents\M_DSDM\Term_2\Text_Mining\HW3\geckodriver.exe')
+
 
     if download==True:
         option.download=True
@@ -49,7 +52,7 @@ def start_up(dfolder, links, download):
         profile.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/pdf,application/x-pdf")
         profile.set_preference("plugin.disable_full_page_plugin_for_types", mime_types)
         profile.set_preference("pdfjs.disabled", True)
-    browser = webdriver.Firefox(service=driverService, firefox_profile=profile, options=option)
+    browser = webdriver.Firefox(firefox_profile=profile, options=option)
 
     ########### --------------------
     # 2.- Login

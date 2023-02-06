@@ -1,0 +1,1001 @@
+,name,rating,location,price
+0,Apartment in the center - Chueca,5.5,"3 Calle de Barbieri, Centro, 28004 Madrid, Spain",€ 451
+1,Palacio Tirso de Molina - THE ARC COLLECTION,9.4,"8 Plaza de Tirso de Molina, Centro, 28012 Madrid, Spain","€ 1,999"
+2,Arenal Suites Puerta del Sol,9.4,"Calle Arenal 8, Centro, 28013 Madrid, Spain","€ 1,343"
+3,Hostal Lisboa,8.8,"Ventura de la Vega, 17, Centro, 28014 Madrid, Spain",€ 618
+4,Akeah Hotel Gran Vía Adults Only,8.5,"Calle de San Bernardo 48, Centro, 28015 Madrid, Spain",€ 804
+5,Hostal Main Street Madrid,9.0,"Gran Vïa 50, 5º, Centro, 28013 Madrid, Spain",€ 515
+6,Hotel Mora by MIJ,8.1,"Paseo del Prado, 32, Centro, 28014 Madrid, Spain",€ 572
+7,Hotel Princesa Plaza Madrid,8.2,"Princesa, 40, Centro, 28008 Madrid, Spain",€ 792
+8,ME Madrid Reina Victoria by Meliá,8.3,"Plaza de Santa Ana, 14, Centro, 28012 Madrid, Spain","€ 1,024"
+9,The Madrid EDITION,9.3,"Plaza de Celenque 2, Centro, 28013 Madrid, Spain","€ 1,969"
+10,Hostal Central Palace Madrid,9.2,"Plaza de Oriente 2, 3º izquierda, Centro, 28013 Madrid, Spain",€ 686
+11,Edificio Leganitos XV,9.0,"15 Calle de Leganitos, Centro, 28013 Madrid, Spain",€ 492
+12,One Shot Prado 23,8.3,"Calle del Prado, 23, Centro, 28014 Madrid, Spain",€ 644
+13,Hostal Don Alfonso,8.8,"Plaza de Celenque, 1, Centro, 28013 Madrid, Spain",€ 459
+14,Hotel Regina,9.2,"Alcala, 19, Centro, 28014 Madrid, Spain","€ 1,210"
+15,Bob W Chueca,8.8,"Calle de Fuencarral 45 Floor 4, Centro, 28004 Madrid, Spain",€ 595
+16,Hostal Aguilar,9.1,"Carrera San Jerónimo, 32 - 2º, Centro, 28014 Madrid, Spain",€ 600
+17,Petit Palace Chueca,8.6,"Hortaleza, 3, Centro, 28004 Madrid, Spain",€ 746
+18,Hostal Riesco,8.5,"Correo 2, 3º, Centro, 28012 Madrid, Spain",€ 600
+19,Pestana Plaza Mayor Madrid,9.0,"Calle Imperial, 8, Centro, 28012 Madrid, Spain","€ 1,489"
+20,Hostal Lauria,9.2,"Gran Via, 50 - 4º, Centro, 28013 Madrid, Spain",€ 567
+21,Petit Palace Cliper-Gran Vía,8.4,"Chinchilla, 6, esquina Gran Vía, 29, Centro, 28013 Madrid, Spain",€ 776
+22,"Hotel Urban,a Member of Design Hotels",8.8,"Carrera San Jerónimo, 34, Centro, 28014 Madrid, Spain","€ 1,126"
+23,CoolRooms Palacio de Atocha,9.4,"34 Calle de Atocha, Centro, 28012 Madrid, Spain","€ 1,212"
+24,Hotel Meninas - Boutique Opera,8.4,"Campomanes, 7, Centro, 28013 Madrid, Spain",€ 678
+25,Hostal Esmeralda,8.4,"De la Victoria, 1, Centro, 28012 Madrid, Spain",€ 540
+26,Apartamentos Puerta Del Sol,8.2,"Cádiz, 3, Centro, 28012 Madrid, Spain",€ 600
+27,Hostal Esparteros,8.1,"12 Calle de Esparteros, Centro, 28012 Madrid, Spain",€ 521
+28,Hostal Rías Bajas,8.5,"San Bernardo 35 1º-Izda, Centro, 28015 Madrid, Spain",€ 637
+29,Soho Boutique Opera,8.6,"Calle Veneras, 2, Centro, 28013 Madrid, Spain",€ 741
+30,Hotel Infantas by MIJ,8.3,"Infantas, 29, Centro, 28004 Madrid, Spain",€ 748
+31,"URSO Hotel & Spa, a Small Luxury Hotel of the World",9.1,"Mejía Lequerica, 8, Centro, 28004 Madrid, Spain","€ 1,500"
+32,Soho Boutique Congreso,8.6,"7 Calle de Zorrilla, Centro, 28014 Madrid, Spain",€ 741
+33,Arenal Suites Gran Vía,9.1,"Calle Silva 14, Centro, 28004 Madrid, Spain","€ 1,113"
+34,Hyatt Centric Gran Via Madrid,8.9,"Gran Via, 31, Centro, 28013 Madrid, Spain","€ 1,153"
+35,II Castillas Madrid,8.7,"Abada, 7, Centro, 28013 Madrid, Spain",€ 791
+36,Hostal Abami II,8.4,"San Bernardo, 35 - 2º, Centro, 28015 Madrid, Spain",€ 572
+37,Edificio Leganitos,7.8,"15 Calle de Leganitos, Centro, 28013 Madrid, Spain",€ 480
+38,Hostal Abril Madrid,8.3,"Fuencarral 39, 4 Derecha, Centro, 28004 Madrid, Spain",€ 427
+39,Hostal Adis,8.7,"De la puebla, 14 Planta 1, Centro, 28004 Madrid, Spain",€ 565
+40,Aparthotel Tribunal,7.5,"San Vicente Ferrer, 1, Centro, 28004 Madrid, Spain",€ 671
+41,Fuencarral Adeco,8.5,"Fuencarral, 27, 2ª planta , Centro, 28004 Madrid, Spain",€ 522
+42,Hostal Comercial,7.5,"Esparteros, 12, Centro, 28012 Madrid, Spain",€ 464
+43,JC Rooms Chueca,8.3,"Calle Infantas  5, Centro, 28004 Madrid, Spain",€ 443
+44,Hostal Met Madrid,9.1,"Costanilla De Santiago 2, 2º, Centro, 28013 Madrid, Spain",€ 802
+45,Gran Central Suites,8.1,"Calle Minas 12, Centro, 28004 Madrid, Spain",€ 916
+46,Hostal Adriano,8.3,"De la Cruz, 26  4º piso, Centro, 28012 Madrid, Spain",€ 533
+47,JC Rooms Santo Domingo,7.8,"Cuesta de Santo Domingo, 16, Centro, 28013 Madrid, Spain",€ 443
+48,Hotel Los Condes,8.5,"Libreros, 7, Centro, 28004 Madrid, Spain",€ 697
+49,Hostal Alexis Madrid,8.7,"Principe, 18. Piso 4 Derecha, Centro, 28012 Madrid, Spain",€ 495
+50,JC Rooms Santo Domingo,7.8,"Cuesta de Santo Domingo, 16, Centro, 28013 Madrid, Spain",€ 443
+51,Hostal Adriano,8.3,"De la Cruz, 26  4º piso, Centro, 28012 Madrid, Spain",€ 533
+52,Hostal Met Madrid,9.1,"Costanilla De Santiago 2, 2º, Centro, 28013 Madrid, Spain",€ 802
+53,Hostal Cervantes,8.0,"Cervantes, 34 2º Planta, Centro, 28014 Madrid, Spain",€ 335
+54,JC Rooms Chueca,8.3,"Calle Infantas  5, Centro, 28004 Madrid, Spain",€ 443
+55,Hostal Comercial,7.5,"Esparteros, 12, Centro, 28012 Madrid, Spain",€ 464
+56,Gran Central Suites,8.1,"Calle Minas 12, Centro, 28004 Madrid, Spain",€ 887
+57,Hola Rooms,8.8,"Calle de la Espada, 6, Centro, 28012 Madrid, Spain",€ 466
+58,Hotel Los Condes,8.5,"Libreros, 7, Centro, 28004 Madrid, Spain",€ 689
+59,Porcel Ganivet,8.4,"Toledo, 111, Centro, 28005 Madrid, Spain",€ 525
+60,Hostal Alexis Madrid,8.7,"Principe, 18. Piso 4 Derecha, Centro, 28012 Madrid, Spain",€ 495
+61,Arenal Suites Preciados,9.1,"Calle Preciados 33 * Planta 3º, Centro, 28013 Madrid, Spain",€ 595
+62,Urban Sea Hotel Atocha 113,7.9,"Atocha, 113, Centro, 28012 Madrid, Spain",€ 519
+63,Marina Rooms,8.5,"Calle de Carretas 27 , 2 izquerda, Centro, 28012 Madrid, Spain",€ 490
+64,Minty Stay - Valverde,7.3,"Calle Valverde 19, Esc Int, 3 drcha, Centro, 28004 Madrid, Spain",€ 553
+65,Hostal Inn Madrid,8.6,"Mesonero Romanos, 10 Planta 4, Centro, 28013 Madrid, Spain",€ 650
+66,Vincci The Mint,9.1,"Gran Vía 10, Centro, 28013 Madrid, Spain","€ 1,091"
+67,Hostal del Pez Azul,8.4,"Pez, 9, Centro, 28004 Madrid, Spain",€ 459
+68,Room Mate Macarena – Gran Vía,8.9,"43 Calle Gran Vía, Centro, 28013 Madrid, Spain",€ 780
+69,limehome Madrid Calle de la Madera - Self check-in only,8.4,"25 Calle de la Madera, Centro, 28004 Madrid, Spain",€ 804
+70,Plaza Mayor Suites & Apartments,9.0,"4 Calle Salvador, Centro, 28012 Madrid, Spain",€ 720
+71,Bloom Inn Madrid,8.5,"14 Calle de la Puebla, Planta 4, Centro, 28004 Madrid, Spain",€ 641
+72,Boutique Hotel H10 Villa de la Reina,8.5,"Gran Vía, 22, Centro, 28013 Madrid, Spain",€ 700
+73,Gran Via 63 Rooms,7.4,"Gran Via 63, 5ª Planta, Centro, 28013 Madrid, Spain",€ 627
+74,Collection La Latina,7.1,"19 Calle Águila, Centro, 28005 Madrid, Spain",€ 685
+75,Charming&New apt 2hab en el centro de Madrid,8.0,"19 Calle de Calatrava, Centro, 28005 Madrid, Spain","€ 1,319"
+76,Hostal Adria Santa Ana,8.1,"Nuñez de Arce, 15, 3º Exterior, Centro, 28012 Madrid, Spain",€ 542
+77,Minty Stay - Hortaleza Studio,8.4,"calle hortaleza 96, 4ºF, Centro, 28004 Madrid, Spain",€ 549
+78,Hostal La Casa de La Plaza,7.4,"Plaza de San Miguel, 5, Centro, 28005 Madrid, Spain",€ 409
+79,Chic & Basic dot,8.8,"5 Calle del Maestro Victoria, Centro, 28013 Madrid, Spain",€ 699
+80,Vincci Capitol,8.6,"Gran Vía, 41, Centro, 28013 Madrid, Spain","€ 1,003"
+81,Vincci Soho,8.6,"Calle del Prado, 18, Centro, 28014 Madrid, Spain","€ 1,003"
+82,Ok Hostel Madrid,8.9,"Calle Juanelo, 24, Centro, 28012 Madrid, Spain",€ 728
+83,Madrid 1915 Private Suites,9.4,"3 Calle de los Milaneses, Centro, 28013 Madrid, Spain",€ 797
+84,Jc Rooms Jardines,8.3,"3 Calle Jardines, Centro, 28013 Madrid, Spain",€ 443
+85,Casón del Tormes,8.6,"Del Río, 7, Centro, 28013 Madrid, Spain",€ 714
+86,Apartamento al lado de Gran Via - Pink,9.3,"Calle del Desengano 14 3D, Centro, 28004 Madrid, Spain",€ 763
+87,Hotel Avenida Gran Vía,7.5,"Mesonero Romanos, 14 (corner of Gran Vía, 33), Centro, 28013 Madrid, Spain",€ 720
+88,Hotel Mediodia,8.5,"Plaza del Emperador Carlos V, 8, Centro, 28012 Madrid, Spain",€ 441
+89,Apartamentos Mayor Centro,8.2,"Esparteros, 6 , Centro, 28012 Madrid, Spain",€ 520
+90,Eurostars Central,8.4,"Mejía Lequerica, 10, Centro, 28004 Madrid, Spain",€ 523
+91,Apartments Center Madrid,7.8,"Calle de los Jardines 16, Centro, 28013 Madrid, Spain",€ 436
+92,L&H La Latina Selection,9.0,"Calle Calatrava 17, Centro, 28005 Madrid, Spain",€ 823
+93,Hostal Abel Victoriano,8.3,"San Bernardo, 55, Centro, 28015 Madrid, Spain",€ 617
+94,Casa de Huespedes Dolce Vita,7.7,"San Bartolome, 4, Centro, 28004 Madrid, Spain",€ 292
+95,S42 Estudio en Madrid Centro con Wifi,7.9,"42 Calle del Salitre 2º 2, Centro, 28012 Madrid, Spain",€ 374
+96,Palacio de los Duques Gran Meliá - The Leading Hotels of the World,9.2,"Cuesta Santo Domingo, 5 y 7, Centro, 28013 Madrid, Spain","€ 2,180"
+97,Hostal La Zona,8.7,"Valverde,  7, 1º, Centro, 28004 Madrid, Spain",€ 597
+98,Gran Hotel Inglés - The Leading Hotels of the World,9.4,"Calle Echegaray 08, Centro, 28014 Madrid, Spain","€ 2,197"
+99,Gran View Apartments,8.6,"Calle Gran Vía 48, Centro, 28013 Madrid, Spain",€ 920
+100,piso en lavapies 3 dormitorios 8 personas,,"AVE MARIA, 40, Centro, 28012 Madrid, Spain","€ 1,144"
+101,Santa Ana´s Charming Flat,8.7,"Calle de Núñez de Arce 14, 1C, Centro, 28012 Madrid, Spain",€ 580
+102,Hostal Esmeralda,8.4,"De la Victoria, 1, Centro, 28012 Madrid, Spain",€ 540
+103,NEW AND COZY-STUDIO-CHUECA,9.1,"37 Calle de Hortaleza 2º 13, Centro, 28004 Madrid, Spain",€ 601
+104,Hostal Lauria,9.2,"Gran Via, 50 - 4º, Centro, 28013 Madrid, Spain",€ 567
+105,APARTAMENTOS SAN ANDRES,7.8,"4 Calle de los Mancebos, Centro, 28005 Madrid, Spain",€ 462
+106,Oriente Palace Apartments,8.9,"Calle de Lepanto 6, Centro, 28013 Madrid, Spain",€ 740
+107,Estudio Lorenzo Acogedor,7.5,"Calle de San Lorenzo, Centro, 28004 Madrid, Spain",€ 409
+108,CoolRooms Palacio de Atocha,9.4,"34 Calle de Atocha, Centro, 28012 Madrid, Spain","€ 1,212"
+109,Four Seasons Hotel Madrid,9.4,"Sevilla, 3, Centro, 28014 Madrid, Spain","€ 3,964"
+110,Sophisticated brand new flat,8.8,"6 Calle de Don Pedro 4º int izq, Centro, 28005 Madrid, Spain",€ 810
+111,Petit Palace Triball,8.8,"Gonzalo Jimenez de Quesada, 2 (esquina Gran Vía, 32), Centro, 28004 Madrid, Spain",€ 809
+112,Hostal Meyra,8.2,"Fuencarral, 39 4º Izda, Centro, 28004 Madrid, Spain",€ 510
+113,MintyStay - 1 BD Opera,8.3,"Calle de las Fuentes 5, Centro, 28013 Madrid, Spain",€ 849
+114,Only YOU Boutique Hotel Madrid,9.1,"Barquillo, 21, Centro, 28004 Madrid, Spain","€ 1,460"
+115,Arc House Madrid - Puerta del Sol Only Adults,7.5,"2 Calle de la Victoria 1ero Derecha, Centro, 28012 Madrid, Spain",€ 328
+116,Fantastic flat in Callao-Gran Vía 4P. CALL,5.0,"Calle de Preciados, Centro, 28013 Madrid, Spain",€ 694
+117,Apartamentos Cava Baja,8.8,"Calle Grafal 4, Centro, 28005 Madrid, Spain",€ 769
+118,Salomé,8.8,"Del Pez, 40, 2 Izquierda, Centro, 28004 Madrid, Spain",€ 544
+119,Home Suite Home Gran Via,8.7,"Fuencarral, 4, Centro, 28004 Madrid, Spain",€ 671
+120,Hostal Fuentesol,7.1,"Victoria, 2 , 3º - izq., Centro, 28012 Madrid, Spain",€ 206
+121,Alhambra Suites,8.2,"Espoz y Mina, 8, 2ª Planta, Centro, 28012 Madrid, Spain",€ 600
+122,Hostal Adis,8.7,"De la puebla, 14 Planta 1, Centro, 28004 Madrid, Spain",€ 595
+123,Apartamentos Principe 7,8.7,"7 Calle del Príncipe, Centro, 28012 Madrid, Spain",€ 836
+124,Hotel Los Condes,8.5,"Libreros, 7, Centro, 28004 Madrid, Spain",€ 726
+125,Hostal Abami II,8.4,"San Bernardo, 35 - 2º, Centro, 28015 Madrid, Spain",€ 572
+126,Acogedor apartamento - 1D 1B - Sol,8.3,"Calle Mayor 24, 4 izq B, Centro, 28013 Madrid, Spain",€ 707
+127,ESTUDIOS RUDA 4,7.5,"4 Calle de la Ruda, Centro, 28005 Madrid, Spain",€ 462
+128,Fuencarral Adeco,8.5,"Fuencarral, 27, 2ª planta , Centro, 28004 Madrid, Spain",€ 549
+129,PYR Select Gran Via VIII,7.3,"8 Calle de Valverde Piso 2 puerta 2B, Centro, 28004 Madrid, Spain",€ 572
+130,Hostal Rías Bajas,8.5,"San Bernardo 35 1º-Izda, Centro, 28015 Madrid, Spain",€ 637
+131,"Hotel Indigo Madrid - Gran Via, an IHG Hotel",8.7,"Silva, 6, Centro, 28013 Madrid, Spain",€ 787
+132,Hostal Abril Madrid,8.3,"Fuencarral 39, 4 Derecha, Centro, 28004 Madrid, Spain",€ 427
+133,Acogedor Piso Olivar,6.4,"Calle del Olivar, Centro, 28012 Madrid, Spain",€ 445
+134,"URSO Hotel & Spa, a Small Luxury Hotel of the World",9.1,"Mejía Lequerica, 8, Centro, 28004 Madrid, Spain","€ 1,500"
+135,New Go Inn,8.2,"4 Calle Libertad, Centro, 28004 Madrid, Spain",€ 502
+136,Cómodo apartamento en el centro - Gran Vía,6.0,"29 Calle de Hortaleza, Centro, 28004 Madrid, Spain",€ 828
+137,Gran Central Suites,8.1,"Calle Minas 12, Centro, 28004 Madrid, Spain",€ 916
+138,Ronda de Valencia Apartment,6.9,"Calle Ronda de Valencia 14, Centro, 28012 Madrid, Spain",€ 576
+139,Casa de Madrid,6.2,"C/ Salitre 35, BJ D, 28002 Madrid., Centro, 28012 Madrid, Spain",€ 447
+140,Chueca - Apartamento tranquilo para 4 personas,8.2,"35 Calle de Pelayo, Centro, 28004 Madrid, Spain",€ 726
+141,Apartamento en Centro de Madrid,,"33 Calle de la Montera, Centro, 28013 Madrid, Spain",€ 896
+142,Hostal Comercial,7.5,"Esparteros, 12, Centro, 28012 Madrid, Spain",€ 464
+143,Porcel Ganivet,8.4,"Toledo, 111, Centro, 28005 Madrid, Spain",€ 553
+144,Uma Suites Atocha,8.7,"1 Calle Doctor Mata, Centro, 28012 Madrid, Spain",€ 694
+145,Hotel Los Condes,8.5,"Libreros, 7, Centro, 28004 Madrid, Spain",€ 726
+146,Apartamento en pleno centro de Madrid -AC and Wifi,8.5,"19 Calle de las Infantas 2º puerta 4, Centro, 28004 Madrid, Spain",€ 939
+147,Hostal Met Madrid,9.1,"Costanilla De Santiago 2, 2º, Centro, 28013 Madrid, Spain",€ 802
+148,Hostal Cervantes,8.0,"Cervantes, 34 2º Planta, Centro, 28014 Madrid, Spain",€ 353
+149,JC Rooms Chueca,8.3,"Calle Infantas  5, Centro, 28004 Madrid, Spain",€ 443
+150,Andrés Borrego 13,8.7,"Calle Andrés Borrego 13, Centro, 28004 Madrid, Spain","€ 1,152"
+151,Chueca - Apartamento tranquilo para 4 personas,8.2,"35 Calle de Pelayo, Centro, 28004 Madrid, Spain",€ 699
+152,Apartamento en Centro de Madrid,,"33 Calle de la Montera, Centro, 28013 Madrid, Spain",€ 852
+153,JC Rooms Chueca,8.3,"Calle Infantas  5, Centro, 28004 Madrid, Spain",€ 443
+154,Hostal Cervantes,8.0,"Cervantes, 34 2º Planta, Centro, 28014 Madrid, Spain",€ 335
+155,Apartamento en pleno centro de Madrid -AC and Wifi,8.5,"19 Calle de las Infantas 2º puerta 4, Centro, 28004 Madrid, Spain","€ 1,011"
+156,Hostal Met Madrid,9.1,"Costanilla De Santiago 2, 2º, Centro, 28013 Madrid, Spain",€ 802
+157,Porcel Ganivet,8.4,"Toledo, 111, Centro, 28005 Madrid, Spain",€ 525
+158,Hostal Comercial,7.5,"Esparteros, 12, Centro, 28012 Madrid, Spain",€ 464
+159,Uma Suites Atocha,8.7,"1 Calle Doctor Mata, Centro, 28012 Madrid, Spain",€ 659
+160,AmazINN Places Lavapies V,9.0,"Argumosa, 11, Centro, 28012 Madrid, Spain","€ 1,031"
+161,Hostal Adriano,8.3,"De la Cruz, 26  4º piso, Centro, 28012 Madrid, Spain",€ 533
+162,JC Rooms Santo Domingo,7.8,"Cuesta de Santo Domingo, 16, Centro, 28013 Madrid, Spain",€ 443
+163,Atocha28,7.8,"Calle de Atocha 28, 1º Izq, Centro, 28012 Madrid, Spain",€ 450
+164,Suitur Apartment Hita II Centro Madrid,8.0,"Miguel Moya4, 1, int dcha 2, Centro, 28004 Madrid, Spain",€ 555
+165,Cozy in Malasaña,8.0,"Calle de la Palma 49, Centro, 28004 Madrid, Spain",€ 658
+166,Hostal Inter Plaza Mayor,6.4,"Zaragoza, 6 - 3º Dcha, Centro, 28012 Madrid, Spain",€ 360
+167,Arenal Suites Preciados,9.1,"Calle Preciados 33 * Planta 3º, Centro, 28013 Madrid, Spain",€ 595
+168,Piso en Calle Caravaca,6.2,"Calle de Caravaca, Centro, 28012 Madrid, Spain",€ 437
+169,STYLISH NEST 1BD PLAZA MAYOR - SOL,7.2,"Calle de Santa Isabel, 26, Centro, 28012 Madrid, Spain",€ 615
+170,Hostal Inn Madrid,8.6,"Mesonero Romanos, 10 Planta 4, Centro, 28013 Madrid, Spain",€ 598
+171,Exclusivo piso de 4 hab con vistas a La Latina,10,"77 Calle de Toledo, Centro, 28005 Madrid, Spain","€ 1,841"
+172,Hostal Alexis Madrid,8.7,"Principe, 18. Piso 4 Derecha, Centro, 28012 Madrid, Spain",€ 495
+173,Room Mate Macarena – Gran Vía,8.9,"43 Calle Gran Vía, Centro, 28013 Madrid, Spain",€ 780
+174,Vincci The Mint,9.1,"Gran Vía 10, Centro, 28013 Madrid, Spain","€ 1,228"
+175,Plaza Mayor Suites & Apartments,9.0,"4 Calle Salvador, Centro, 28012 Madrid, Spain",€ 720
+176,Hostal Rofer,8.1,"Toledo, 94 - 2º, Centro, 28005 Madrid, Spain",€ 329
+177,Bloom Inn Madrid,8.5,"14 Calle de la Puebla, Planta 4, Centro, 28004 Madrid, Spain",€ 599
+178,Hostal del Pez Azul,8.4,"Pez, 9, Centro, 28004 Madrid, Spain",€ 459
+179,Exclusivo piso de 4 hab con vistas a La Latina,10,"77 Calle de Toledo, Centro, 28005 Madrid, Spain","€ 1,933"
+180,Central Gran Via,8.9,"45 Calle Gran Vía, Centro, 28013 Madrid, Spain",€ 794
+181,Collection La Latina,7.1,"19 Calle Águila, Centro, 28005 Madrid, Spain",€ 729
+182,Room Mate Macarena – Gran Vía,8.9,"43 Calle Gran Vía, Centro, 28013 Madrid, Spain",€ 780
+183,Petit Palace Posada del Peine,8.5,"Postas, 17, Centro, 28012 Madrid, Spain",€ 631
+184,limehome Madrid Calle de la Madera - Self check-in only,8.4,"25 Calle de la Madera, Centro, 28004 Madrid, Spain",€ 796
+185,"Precioso apartamento Palacio Real, Madrid",8.6,"Calle San Buenaventura 7 _ 3C ESC EXT, Centro, 28005 Madrid, Spain",€ 720
+186,Gran Via 63 Rooms,7.4,"Gran Via 63, 5ª Planta, Centro, 28013 Madrid, Spain",€ 660
+187,Espectacular Loft con terraza,,"8 Calle de Hernán Cortés, Centro, 28004 Madrid, Spain",€ 617
+188,Hostal Adria Santa Ana,8.1,"Nuñez de Arce, 15, 3º Exterior, Centro, 28012 Madrid, Spain",€ 542
+189,Amor de Dios 17 Boutique Hotel,9.1,"Calle Amor de Dios 17, edificio, Centro, 28014 Madrid, Spain",€ 860
+190,Jc Rooms Jardines,8.3,"3 Calle Jardines, Centro, 28013 Madrid, Spain",€ 443
+191,apartamento en la calle pez,10,"MOLINO DEL VIENTO, 6, Centro, 28004 Madrid, Spain",€ 787
+192,The Central House Madrid Lavapiés,9.1,"Calle Encomienda 16, Centro, 28012 Madrid, Spain",€ 518
+193,Slow Suites Bellas Artes,8.5,"20 Calle de los Madrazo, Centro, 28014 Madrid, Spain",€ 733
+194,Petit Palace Santa Bárbara,8.7,"Plaza Santa Barbara, 10, Centro, 28004 Madrid, Spain",€ 775
+195,Stunning & Bright 2BD 2BTH – CITY CENTER -GRAN VIA,8.6,"10 Calle del Caballero de Gracia, Centro, 28013 Madrid, Spain","€ 1,223"
+196,PYR Select Fuencarral III,7.5,"Calle de Hortaleza, Centro, 28004 Madrid, Spain",€ 435
+197,Hostal La Casa de La Plaza,7.4,"Plaza de San Miguel, 5, Centro, 28005 Madrid, Spain",€ 409
+198,Vincci Capitol,8.6,"Gran Vía, 41, Centro, 28013 Madrid, Spain",€ 991
+199,SVF76 - LOFT individual en Malasaña 2 personas,9.3,"76 Calle de San Vicente Ferrer, Centro, 28015 Madrid, Spain",€ 496
+200,MintyStay 1BD - Las Letras,8.7,"Huertas 50, Centro, 28014 Madrid, Spain",€ 598
+201,MintyStay - Campoamor,10,"Calle de Campoamor 13, local derecha apt 1, Centro, 28004 Madrid, Spain",€ 904
+202,Alfonso XIII,8.7,"32 Calle Mayor, Centro, 28013 Madrid, Spain",€ 741
+203,Apart Mesón Embajadores M3,6.3,"80 Calle del Mesón de Paredes, Centro, 28012 Madrid, Spain",€ 431
+204,Ibis Budget Madrid Centro Lavapies,8.0,"Calle De Valencia 8 10, Centro, 28012 Madrid, Spain",€ 509
+205,Hostal Sol Square Madrid,8.3,"Calle Luis Velez de Guevara, 2- 4, Centro, 28012 Madrid, Spain",€ 516
+206,"The Principal Madrid, Small Luxury Hotels",8.8,"Marqués de Valdeiglesias, 1, Centro, 28004 Madrid, Spain","€ 1,710"
+207,Hostal Alicante,7.7,"Arenal, 16 dplo., Centro, 28013 Madrid, Spain",€ 488
+208,Sterling,8.0,"San Bernardo, 29-31, Centro, 28015 Madrid, Spain",€ 610
+209,"Hotel Madrid Centro, Affiliated by Meliá",7.9,"Gran Via, 72, Centro, 28013 Madrid, Spain",€ 914
+210,L&H Gran Vía Selection,9.0,"San Onofre 5, Centro, 28004 Madrid, Spain","€ 1,518"
+211,Hostal El Pilar,8.0,"Carretas, 13, Centro, 28012 Madrid, Spain",€ 472
+212,apartamento reformado en el barrio de las letras,9.0,"GOBERNADOR, 22, Centro, 28014 Madrid, Spain",€ 713
+213,Hotel Freedom,8.4,"Santa Isabel, 4, Centro, 28013 Madrid, Spain",€ 545
+214,SmartRental Collection Gran Vía Capital,8.9,"14 Calle Gran Vía, Centro, 28013 Madrid, Spain","€ 1,056"
+215,Hostal Anton Martin,8.3,"Magdalena, 29, Centro, 28012 Madrid, Spain",€ 552
+216,Petit Palace Preciados,8.1,"Galdo, 2, Centro, 28013 Madrid, Spain",€ 714
+217,Madridcito,8.6,"Calle de la Montera, 20 4o izquierda , Centro, 28013 Madrid, Spain",€ 570
+218,Exclusive Apartment in Historic Center,8.1,"1 Plaza de la Villa, Centro, 28005 Madrid, Spain",€ 683
+219,Mayerling Hotel,8.5,"Conde de Romanones, 6, Centro, 28012 Madrid, Spain",€ 771
+220,Capital BedRoom,4.2,"58 Calle de Fuencarral, Centro, 28004 Madrid, Spain",€ 425
+221,Hostal Ballesta,8.2,"Ballesta 5, Centro, 28004 Madrid, Spain",€ 566
+222,"Hotel Urban,a Member of Design Hotels",8.8,"Carrera San Jerónimo, 34, Centro, 28014 Madrid, Spain","€ 1,032"
+223,Room Mate Mario,8.5,"Campomanes, 4, Centro, 28013 Madrid, Spain",€ 568
+224,APARTAMENTOS EN FUENCARRAL Granvía,8.8,"22 Calle de Fuencarral Piso 2 ext A, Centro, 28004 Madrid, Spain",€ 486
+225,apartamento plaza de lavapies,8.0,"LAVAPIES, 4, Centro, 28012 Madrid, Spain",€ 497
+226,Madridcito,8.6,"Calle de la Montera, 20 4o izquierda , Centro, 28013 Madrid, Spain",€ 542
+227,Hostal Ballesta,8.2,"Ballesta 5, Centro, 28004 Madrid, Spain",€ 566
+228,Mayerling Hotel,8.5,"Conde de Romanones, 6, Centro, 28012 Madrid, Spain",€ 771
+229,Capital BedRoom,4.2,"58 Calle de Fuencarral, Centro, 28004 Madrid, Spain",€ 439
+230,Hostal Madrid Star,8.2,"Príncipe, 18 2º derecha, Centro, 28012 Madrid, Spain",€ 591
+231,Artrip Hotel,9.1,"Valencia, 11, Centro, 28012 Madrid, Spain",€ 996
+232,APARTAMENTOS EN FUENCARRAL Granvía,8.8,"22 Calle de Fuencarral Piso 2 ext A, Centro, 28004 Madrid, Spain",€ 486
+233,Smartrental Collection Gran Vía Centric,8.8,"42 Calle Gran Vía, Centro, 28013 Madrid, Spain",€ 855
+234,Vitium Urban Suites,8.0,"Gran Vía, 61, Centro, 28013 Madrid, Spain",€ 756
+235,Apartamento en el corazón de Madrid,6.2,"Calle del Norte 27 Bajo, Centro, 28015 Madrid, Spain",€ 372
+236,piso en lavapies 3 dormitorios 8 personas,,"AVE MARIA, 40, Centro, 28012 Madrid, Spain","€ 1,144"
+237,MOLINA - LA LATINA,7.2,"6 Calle del Calvario 4º B, Centro, 28012 Madrid, Spain",€ 509
+238,Hostal Manuela by gaiarooms,7.7,"Gran Ví­a, 15 - 4B, Centro, 28013 Madrid, Spain",€ 452
+239,Aspasios Calle Mayor Apartments,8.8,"Calle Mayor 30, Centro, 28013 Madrid, Spain",€ 765
+240,Sophisticated brand new flat,8.8,"6 Calle de Don Pedro 4º int izq, Centro, 28005 Madrid, Spain",€ 822
+241,Estudio Lorenzo Acogedor,7.5,"Calle de San Lorenzo, Centro, 28004 Madrid, Spain",€ 429
+242,Luz Madrid Rooms,8.3,"Las Fuentes,10, 3 Izquierda y Derecha., Centro, 28013 Madrid, Spain",€ 561
+243,Hostal Cervelo,8.4,"Atocha, 43, Centro, 28012 Madrid, Spain",€ 460
+244,Four Seasons Hotel Madrid,9.4,"Sevilla, 3, Centro, 28014 Madrid, Spain","€ 3,964"
+245,Santa Ana´s Charming Flat,8.7,"Calle de Núñez de Arce 14, 1C, Centro, 28012 Madrid, Spain",€ 534
+246,Hostal Edreira,8.6,"Atocha, 75, Centro, 28012 Madrid, Spain",€ 577
+247,Hostal MH Fuencarral,8.3,"Fuencarral, 10 , 3º, Centro, 28004 Madrid, Spain",€ 665
+248,Arc House Madrid - Puerta del Sol Only Adults,7.5,"2 Calle de la Victoria 1ero Derecha, Centro, 28012 Madrid, Spain",€ 328
+249,Blume Cruz Suites,9.1,"De La Cruz, 35, Centro, 28012 Madrid, Spain",€ 754
+250,APARTAMENTOS REFORMADOS EN LAVAPIES,,"5 Calle del Oso, Centro, 28012 Madrid, Spain",€ 527
+251,Habitación Madrid centro,9.7,"Calle del Nuncio, Centro, 28005 Madrid, Spain",€ 442
+252,Acogedor y silencioso estudio M1 Embajadores,7.2,"80 Calle del Mesón de Paredes, Centro, 28012 Madrid, Spain",€ 479
+253,Minty Stay - Atocha 4 BD,9.1,"Calle Atocha 114, 1º Ext Izq, Centro, 28012 Madrid, Spain","€ 1,774"
+254,Stop in Flat,7.5,"Different locations in Madrid city center, Centro, 28013 Madrid, Spain",€ 439
+255,Gran Via Experience,8.2,"5 Calle del Postigo de San Martín, Centro, 28013 Madrid, Spain",€ 315
+256,Suites You Nickel,7.7,"Calle Del Carmen 5, Centro, 28013 Madrid, Spain",€ 679
+257,Hostal Patria Madrid,9.0,"Mayor, 10 4º, Centro, 28013 Madrid, Spain",€ 501
+258,Hostal Galaico,8.5,"Gran Vía, 15 - 5º D, Centro, 28013 Madrid, Spain",€ 561
+259,New Point Opera,9.1,"Calle de las Hileras 8, Centro, 28013 Madrid, Spain",€ 909
+260,Estudio Lorenzo Acogedor,7.5,"Calle de San Lorenzo, Centro, 28004 Madrid, Spain",€ 429
+261,Hostal Pio Centro,8.3,"Calle de la Montera 21. 3ª Planta, Centro, 28013 Madrid, Spain",€ 450
+262,Genteel Home Cava Baja,9.1,"Calle Cava Baja, Centro, 28005 Madrid, Spain",€ 880
+263,Punta Me Apartment Super Located in Plaza España,10,"19 Calle de los Reyes, Centro, 28015 Madrid, Spain",€ 641
+264,Santa Ana´s Charming Flat,8.7,"Calle de Núñez de Arce 14, 1C, Centro, 28012 Madrid, Spain",€ 580
+265,Soho Boutique Opera,8.6,"Calle Veneras, 2, Centro, 28013 Madrid, Spain",€ 729
+266,MOLINA - LA LATINA,7.2,"6 Calle del Calvario 4º B, Centro, 28012 Madrid, Spain",€ 501
+267,Quatro Puerta del Sol,8.2,"Sevilla, 4, Centro, 28014 Madrid, Spain",€ 770
+268,Hostal Felipe V,8.1,"Gran Vía, 15 - 4º, Centro, 28013 Madrid, Spain",€ 387
+269,Hostal Zamora,8.5,"Plaza Pedro Zerolo, 1, 4 Izquierda, Centro, 28004 Madrid, Spain",€ 441
+270,NEW AND COZY-STUDIO-CHUECA,9.1,"37 Calle de Hortaleza 2º 13, Centro, 28004 Madrid, Spain",€ 601
+271,Hostal Palacio Madrid,8.2,"Del Principe,18, 3º Izqda, Centro, 28012 Madrid, Spain",€ 479
+272,Fantastic flat in Callao-Gran Vía 4P. CALL,5.0,"Calle de Preciados, Centro, 28013 Madrid, Spain",€ 669
+273,II Castillas Madrid,8.7,"Abada, 7, Centro, 28013 Madrid, Spain",€ 791
+274,HOMEABOUT CALLE TOLEDO Apartment II,7.9,"70 Calle de Toledo Calle Toledo 70, 3º derecha, Centro, 28005 Madrid, Spain",€ 840
+275,Hostal Zamora,8.5,"Plaza Pedro Zerolo, 1, 4 Izquierda, Centro, 28004 Madrid, Spain",€ 406
+276,Hostal Pio Centro,8.3,"Calle de la Montera 21. 3ª Planta, Centro, 28013 Madrid, Spain",€ 450
+277,Genteel Home Cava Baja,9.1,"Calle Cava Baja, Centro, 28005 Madrid, Spain",€ 880
+278,Estudio Lorenzo Acogedor,7.5,"Calle de San Lorenzo, Centro, 28004 Madrid, Spain",€ 429
+279,Santa Ana´s Charming Flat,8.7,"Calle de Núñez de Arce 14, 1C, Centro, 28012 Madrid, Spain",€ 551
+280,Hostal Felipe V,8.1,"Gran Vía, 15 - 4º, Centro, 28013 Madrid, Spain",€ 387
+281,Punta Me Apartment Super Located in Plaza España,10,"19 Calle de los Reyes, Centro, 28015 Madrid, Spain",€ 641
+282,NEW AND COZY-STUDIO-CHUECA,9.1,"37 Calle de Hortaleza 2º 13, Centro, 28004 Madrid, Spain",€ 583
+283,Quatro Puerta del Sol,8.2,"Sevilla, 4, Centro, 28014 Madrid, Spain","€ 1,095"
+284,MOLINA - LA LATINA,7.2,"6 Calle del Calvario 4º B, Centro, 28012 Madrid, Spain",€ 501
+285,Fantastic flat in Callao-Gran Vía 4P. CALL,5.0,"Calle de Preciados, Centro, 28013 Madrid, Spain",€ 644
+286,HOMEABOUT CALLE TOLEDO Apartment II,7.9,"70 Calle de Toledo Calle Toledo 70, 3º derecha, Centro, 28005 Madrid, Spain",€ 840
+287,Hostal Palacio Madrid,8.2,"Del Principe,18, 3º Izqda, Centro, 28012 Madrid, Spain",€ 479
+288,Woohoo Rooms Fuencarral,9.2,"Calle de Fuencarral, 41, 2º, Centro, 28004 Madrid, Spain",€ 681
+289,ESTUDIOS RUDA 4,7.5,"4 Calle de la Ruda, Centro, 28005 Madrid, Spain",€ 462
+290,Casa de Madrid,6.2,"C/ Salitre 35, BJ D, 28002 Madrid., Centro, 28012 Madrid, Spain",€ 462
+291,Hostal Santa Ana Colors,8.2,"Huertas, 14, Centro, 28012 Madrid, Spain",€ 627
+292,PYR Select Gran Via VIII,7.3,"8 Calle de Valverde Piso 2 puerta 2B, Centro, 28004 Madrid, Spain",€ 546
+293,Atico Preciados,7.6,"Calle Preciados 40, Centro, 28013 Madrid, Spain",€ 464
+294,Acogedor apartamento - 1D 1B - Sol,8.3,"Calle Mayor 24, 4 izq B, Centro, 28013 Madrid, Spain",€ 673
+295,Acogedor Piso Olivar,6.4,"Calle del Olivar, Centro, 28012 Madrid, Spain",€ 445
+296,Capital BedRoom,4.2,"58 Calle de Fuencarral, Centro, 28004 Madrid, Spain",€ 421
+297,AbraCadabra Suites,6.9,"Bailen, 39, Centro, 28005 Madrid, Spain",€ 561
+298,Suites You Gran Vía,7.0,"15 Calle Gran Vía, Centro, 28013 Madrid, Spain",€ 601
+299,Suites You Zinc,7.6,"Calle del Arenal, 10 , Centro, 28013 Madrid, Spain",€ 749
+300,Andrés Borrego 13,8.7,"Calle Andrés Borrego 13, Centro, 28004 Madrid, Spain","€ 1,152"
+301,Hostal Rofer,8.1,"Toledo, 94 - 2º, Centro, 28005 Madrid, Spain",€ 329
+302,Central Gran Via,8.9,"45 Calle Gran Vía, Centro, 28013 Madrid, Spain",€ 847
+303,Exclusivo piso de 4 hab con vistas a La Latina,10,"77 Calle de Toledo, Centro, 28005 Madrid, Spain","€ 1,841"
+304,Hostal Regio,8.0,"Chinchilla, 4, 3º Derecha, Centro, 28013 Madrid, Spain",€ 498
+305,SmartRental Madrid Chueca,7.2,"Perez Galdós, 7, Centro, 28004 Madrid, Spain",€ 632
+306,Hostal Rober,8.2,"Arenal, 26 - 5º Derecha, Centro, 28013 Madrid, Spain",€ 504
+307,Piso en Calle Caravaca,6.2,"Calle de Caravaca, Centro, 28012 Madrid, Spain",€ 410
+308,Petit Palace Posada del Peine,8.5,"Postas, 17, Centro, 28012 Madrid, Spain",€ 631
+309,Uma Suites Atocha,8.7,"1 Calle Doctor Mata, Centro, 28012 Madrid, Spain",€ 694
+310,STYLISH NEST 1BD PLAZA MAYOR - SOL,7.2,"Calle de Santa Isabel, 26, Centro, 28012 Madrid, Spain",€ 646
+311,Apartamento en Centro de Madrid,,"33 Calle de la Montera, Centro, 28013 Madrid, Spain",€ 896
+312,Ever House - CHUECA-GRAN VIA,9.1,"Calle de las Infantas, Centro, 28004 Madrid, Spain","€ 1,865"
+313,apartamento en la calle pez,10,"MOLINO DEL VIENTO, 6, Centro, 28004 Madrid, Spain",€ 787
+314,Apartamentos Huertas,8.8,"Huertas, 10, Centro, 28012 Madrid, Spain",€ 748
+315,Plaza Mayor Apartment,9.0,"Calle del Duque de Rivas, Centro, 28012 Madrid, Spain",€ 997
+316,Amor de Dios 17 Boutique Hotel,9.1,"Calle Amor de Dios 17, edificio, Centro, 28014 Madrid, Spain",€ 860
+317,Hostal Alfaro,8.5,"Ventura De La Vega, 16, Centro, 28014 Madrid, Spain",€ 837
+318,Slow Suites Bellas Artes,8.5,"20 Calle de los Madrazo, Centro, 28014 Madrid, Spain",€ 733
+319,Eric Vökel Boutique Apartments - Madrid Suites,8.9,"San Bernardo, 61, Centro, 28015 Madrid, Spain","€ 1,199"
+320,"Precioso apartamento Palacio Real, Madrid",8.6,"Calle San Buenaventura 7 _ 3C ESC EXT, Centro, 28005 Madrid, Spain",€ 720
+321,Jc Rooms Jardines,8.3,"3 Calle Jardines, Centro, 28013 Madrid, Spain",€ 443
+322,Bastardo Hostel,8.5,"3 Calle de San Mateo, Centro, 28004 Madrid, Spain",€ 692
+323,The Central House Madrid Lavapiés,9.1,"Calle Encomienda 16, Centro, 28012 Madrid, Spain",€ 518
+324,Petit Palace Santa Bárbara,8.7,"Plaza Santa Barbara, 10, Centro, 28004 Madrid, Spain",€ 776
+325,Hostal La Fontana,8.0,"Valverde, 6, Centro, 28004 Madrid, Spain",€ 406
+326,BNBHolder Always Happy La Latina,9.0,"Calle de Rodas, Centro, Madrid, Spain",€ 835
+327,Studio in Ruda close to Plaza Mayor & Parking Gratis,8.8,"Calle de la Ruda 15 Escalera: Interior Planta: 0 Puerta: A, Centro, 28005 Madrid, Spain",€ 570
+328,Hostal Besaya,8.1,"San Bernardo, 13, 8ª Planta (esquina Gran Via), Centro, 28015 Madrid, Spain",€ 504
+329,Modern Cozy 1 Bedroom Apartment near city centre,,"Centro, 28012 Madrid, Spain",€ 973
+330,Iyewu Ile Ire,6.8,"Calle Olivar , Centro, 28012 Madrid, Spain",€ 626
+331,"Atico x 9 pax, con gran terraza en el La Latina!",7.0,"6 Calle de Santa Ana, Centro, 28005 Madrid, Spain","€ 1,928"
+332,Generator Madrid,8.1,"Calle de Silva 1, Centro, 28013 Madrid, Spain",€ 636
+333,Hotel Mexico,7.8,"Gobernador, 24, Centro, 28014 Madrid, Spain",€ 570
+334,Spacious flat puerta del sol,8.1,"9 Calle de Espoz y Mina 2º1 i, Centro, 28012 Madrid, Spain","€ 1,083"
+335,"Calle de Felipe III, 7",4.8,"Calle de Felipe III, 7 APARTAMENTO 1A, Centro, 28012 Madrid, Spain",€ 520
+336,Romantic Central Terrace,8.3,"Calle Corredera Alta de San Pablo, 31, 4C, Centro, 28004 Madrid, Spain","€ 1,706"
+337,SmartRental Madrid Gran Via 47,7.2,"47 Calle Gran Vía, Centro, 28013 Madrid, Spain",€ 475
+338,"Huertas, 58",8.3,"Calle Huertas, 58, 3º A, Centro, 28014 Madrid, Spain","€ 1,024"
+339,limehome Madrid La Bolsa,9.0,"4 Calle de la Bolsa, Centro, 28012 Madrid, Spain",€ 610
+340,Los Aposentos de Barceló,5.9,"Calle Barceló, Centro, 28015 Madrid, Spain",€ 969
+341,limehome Madrid San Lorenzo,8.7,"26 Calle de San Lorenzo, Centro, 28004 Madrid, Spain",€ 594
+342,Hostal America,7.6,"Hortaleza, 19 - 5ª Planta, Centro, 28004 Madrid, Spain",€ 570
+343,Apartamento St Barbara-Madrid,7.2,"5 Calle de Santa Bárbara, Centro, 28004 Madrid, Spain",€ 683
+344,NH Collection Madrid Palacio de Tepa,8.7,"San Sebastián, 2, Centro, 28012 Madrid, Spain","€ 1,159"
+345,BNBHolder Golden Triangle of Art CENTRE,9.0,"Calle del Doctor Fourquet, Centro, 28012 Madrid, Spain","€ 1,053"
+346,Slow Suites Chueca,8.7,"8 Calle San Marcos, Centro, 28004 Madrid, Spain",€ 789
+347,Far Home Plaza Mayor,7.6,"Doctor Cortezo 15, 4Tª Planta, Centro, 28012 Madrid, Spain",€ 403
+348,Casa de huéspedes Mi lla,5.4,"Calle de San Millán, Centro, 28012 Madrid, Spain",€ 540
+349,"Almadén, la Travesía del Paseo Del Prado - Retiro",7.1,"Calle de Almadén, 1, Centro, 28014 Madrid, Spain",€ 979
+350,Belén Modern y luxury space near Plaza Mayor,8.0,"10 Calle del Sacramento, Centro, 28005 Madrid, Spain",€ 513
+351,Hostal Tokio,7.7,"Puebla, 6 1º derecha, Centro, 28004 Madrid, Spain",€ 471
+352,CH Lumiere,7.7,"Calle de las Tres Cruces, 4, 3D, Centro, 28013 Madrid, Spain",€ 345
+353,Veracruz Puerta del Sol,8.0,"Victoria, 1 3º, Centro, 28012 Madrid, Spain",€ 741
+354,mi casa en Madrid- spacious apartments Callao Gran Via,9.2,"5 Calle de las Veneras, Centro, 28013 Madrid, Spain",€ 810
+355,SmartRental Madrid Gran Via Apartments,9.0,"78 Calle de San Bernardo, Centro, 28015 Madrid, Spain","€ 1,217"
+356,Modular Rooms,8.0,"calle de la Espada 4 calle de la Espada 4, Centro, 28012 Madrid, Spain",€ 367
+357,Estudio cerca de Antón Martín 4Pax (S. ISABEL III),6.9,"Calle de Santa Isabel, Centro, 28012 Madrid, Spain",€ 674
+358,Behap Madrid De Las Letras,7.4,"Calle San Pedro, 13, Centro, 28014 Madrid, Spain",€ 903
+359,SY Fuencarral,8.6,"33 Calle de Fuencarral, Centro, 28004 Madrid, Spain","€ 1,003"
+360,El Mercado de San Miguel,3.0,"de San Miguel, 4, Centro, 28014 Madrid, Spain","€ 1,017"
+361,M-A Estudio 3 Cruces 12,8.3,"12 Calle de las Tres Cruces, Centro, 28013 Madrid, Spain",€ 376
+362,Center Madrid habitaciones,7.8,"2 Corredera Baja de San Pablo, Centro, 28004 Madrid, Spain",€ 540
+363,Cruz Apartment,8.6,"Cruz 33 4º IZQ, Centro, 28013 Madrid, Spain",€ 736
+364,Santa Ana Plaza by Madflats Collection,9.4,"5 Plaza Santa Ana, Centro, 28012 Madrid, Spain",€ 943
+365,Precioso apartamento en el centro de Madrid.,7.5,"3 Calle de Concepción Jerónima, Centro, 28012 Madrid, Spain","€ 2,180"
+366,VP Plaza España Design,9.2,"Plaza de España n.5, Centro, 28008 Madrid, Spain","€ 1,485"
+367,SmartRental Madrid Puerta del Sol,8.0,"Pasa, 10, Centro, 28005 Madrid, Spain",€ 749
+368,Apartamento de 4hab en La Latina con vistas,5.3,"77 Calle de Toledo, Centro, 28005 Madrid, Spain","€ 1,563"
+369,Hostal Castilla II Puerta del Sol,8.2,"Marqués Viudo de Pontejos 2, 1º, Centro, 28012 Madrid, Spain",€ 698
+370,Hostal Hispalense,7.9,"Fuentes, 12, 2º Izquierda, Centro, 28013 Madrid, Spain",€ 404
+371,CH Rayuela,8.2,"Fuencarral, 41, 4º - dcha, Centro, 28004 Madrid, Spain",€ 760
+372,limehome Madrid Calle de Fomento - Self check-in only,8.9,"36 Calle de Fomento, Centro, 28013 Madrid, Spain","€ 1,068"
+373,M&F FUENCARRAL,8.7,"22 Calle de Fuencarral, Centro, 28004 Madrid, Spain","€ 1,550"
+374,Toc Hostel Madrid,8.9,"Plaza de Celenque, 3 , Centro, 28013 Madrid, Spain",€ 787
+375,La Albarrada del Mesón,5.5,"Mesón de Paredes, 86, Centro, 28012 Madrid, Spain","€ 1,017"
+376,Apartamento de 4hab en La Latina con vistas,5.3,"77 Calle de Toledo, Centro, 28005 Madrid, Spain","€ 1,563"
+377,M&F FUENCARRAL,8.7,"22 Calle de Fuencarral, Centro, 28004 Madrid, Spain","€ 1,475"
+378,Hostal Armesto,8.2,"San Agustin, 6, Centro, 28014 Madrid, Spain",€ 354
+379,Hostal Nersan,7.5,"Flor Baja, 5 - 4º Izquierda, Centro, 28013 Madrid, Spain",€ 452
+380,Gran Via de Madrid Apartments,7.1,"Noviciado, 7, Centro, 28015 Madrid, Spain",€ 714
+381,Mini Estudio Lovely Chueca,7.7,"C/ Augusto Figueroa, 9 2º PUERTA 6 28004 MADRID, Centro, 28004 Madrid, Spain",€ 358
+382,Wonder Apartments,8.2,"5 Plaza de Herradores Edificio Madreselva, Centro, 28013 Madrid, Spain",€ 857
+383,Premium apt para 9p en c/olmo - Centro de Madrid,8.7,"23 Calle del Olmo Primero, Centro, 28012 Madrid, Spain","€ 1,870"
+384,Opera Suite by Madflats Collection,8.5,"4 Calle de la Bola, Centro, 28013 Madrid, Spain",€ 909
+385,Hostal Hispano - Argentino Gran Vía,7.9,"Gran Vía, 15 - 6º, Centro, 28013 Madrid, Spain",€ 450
+386,Madrid House Rooms,7.8,"Barbieri, 1, Centro, 28004 Madrid, Spain",€ 570
+387,Hostal Prado,8.0,"Nuñez de Arce, 15, Centro, 28012 Madrid, Spain",€ 356
+388,Hostal Hispalense,7.9,"Fuentes, 12, 2º Izquierda, Centro, 28013 Madrid, Spain",€ 426
+389,Hostal Charlotte,7.7,"44 Calle Gran Vía, Centro, 28013 Madrid, Spain",€ 871
+390,AmazINN Places Noviciado 11,8.3,"Calle del Noviciado, 9, Centro, 28015 Madrid, Spain",€ 657
+391,Slow Suites Sol,8.8,"26 Calle del Carmen, Centro, 28013 Madrid, Spain",€ 779
+392,Victoria 4 Puerta del Sol,8.2,"Victoria, 4, Centro, 28012 Madrid, Spain","€ 1,522"
+393,Royal Suites Madrid,5.7,"17 Calle de la Montera, Centro, 28013 Madrid, Spain",€ 497
+394,apartamento en pleno barrio de las letras,8.0,"LOPE DE VEGA, 13, Centro, 28014 Madrid, Spain","€ 1,005"
+395,Vázquez de Mella Gran Vía,8.0,"Plaza Pedro Zerolo, 1, Centro, 28004 Madrid, Spain",€ 488
+396,Boutique Apartments in the Heart of Madrid,7.7,"6 Calle de Concepción Jerónima, Centro, 28012 Madrid, Spain",€ 800
+397,Estudio Augusto Acogedor,7.4,"Calle de Augusto Figueroa, Centro, 28004 Madrid, Spain",€ 405
+398,Belén Modern y luxury space near Plaza Mayor,8.0,"10 Calle del Sacramento, Centro, 28005 Madrid, Spain",€ 564
+399,Solfai Vacacional 15,7.4,"16 Ronda de Valencia, Centro, 28012 Madrid, Spain",€ 478
+400,Nuevo Apt de 9p en La Cava Alta Centro de Madrid,8.6,"15 Calle de la Cava Alta, Centro, 28005 Madrid, Spain","€ 1,753"
+401,Hostal Mendoza,8.0,"Chinchilla, 4. Piso 1 Derecha, Centro, 28013 Madrid, Spain",€ 661
+402,Behap Madrid Gran Vía,6.8,"Isabel La Católica, 11, Centro, 28013 Madrid, Spain",€ 903
+403,apartamento reformado en el centro para 4 personas,3.0,"SALITRE, 10, Centro, 28012 Madrid, Spain",€ 839
+404,Apartmento Las Letras,9.8,"Calle Núñez de Arce, Centro, 28012 Madrid, Spain","€ 1,909"
+405,Malasaña Downtown by Madflats Collection,8.6,"Calle Montserrat 4, Centro, 28015 Madrid, Spain",€ 754
+406,"Hotel Madrid Gran Via 25, Affiliated by Meliá",8.0,"Gran Vía, 25, Centro, 28013 Madrid, Spain",€ 914
+407,Modern 1 Bedroom Apartment near Lavapies,7.3,"Centro, 28012 Madrid, Spain",€ 917
+408,HOMEABOUT PREMIUM MALASAÑA Apartment,7.0,"9 Calle de la Madera, Centro, 28004 Madrid, Spain","€ 1,182"
+409,apartamento en chueca,4.0,"HORTALEZA, 96, Centro, 28004 Madrid, Spain",€ 679
+410,mi casa en Madrid- spacious apartments Callao Gran Via,9.2,"5 Calle de las Veneras, Centro, 28013 Madrid, Spain",€ 763
+411,Piso Apartamento Zona Turística Centro Madrid,7.9,"Calle del Carnero 5 Bajo E, Centro, 28005 Madrid, Spain",€ 603
+412,Solfai Vacacional 29,6.6,"4 Calle Miguel Moya, Centro, 28004 Madrid, Spain",€ 426
+413,Hostal Casa Boutique,7.6,"Gravina 25   1º izquierda, Centro, 28004 Madrid, Spain",€ 520
+414,Apt con estilo - 5p en zona Tirso/Centro de Madrid,7.0,"15 Calle del Calvario Bajo, Centro, 28012 Madrid, Spain","€ 1,301"
+415,HOMEABOUT PUERTA DEL SOL Premium,6.7,"11 Calle Mayor, Centro, 28012 Madrid, Spain",€ 611
+416,MIT House Cibeles Studio en Madrid,10,"Victor Hugo, DRCH, 4, Centro, 28004 Madrid, Spain",€ 895
+417,Piso en Augusto Figueroa,7.9,"9 Calle de Augusto Figueroa, Centro, 28004 Madrid, Spain",€ 466
+418,Minty Stay - Hortaleza,7.6,"hortaleza 96, 5D, Centro, 28004 Madrid, Spain",€ 563
+419,Solfai Vacacional 32,7.1,"16 Ronda de Valencia, Centro, 28012 Madrid, Spain",€ 522
+420,Precioso dúplex en la Puerta del Sol.,9.6,"1 Calle Mayor 4ª. Apto 25, Centro, 28013 Madrid, Spain","€ 1,591"
+421,Hostal Boutique I Host You,8.9,"4 Plaza de las Cortes, Centro, 28014 Madrid, Spain",€ 846
+422,Cats Hostel Madrid Sol,8.4,"Cañizares, 6, Centro, 28012 Madrid, Spain",€ 716
+423,Latina Palace by Madflats Collection,8.7,"10 Calle San Buenaventura, Centro, 28005 Madrid, Spain",€ 840
+424,Bonito apartamento cerca de la Plaza Mayor (C/Segovia 10),7.9,"10 Calle de Segovia, Centro, 28005 Madrid, Spain","€ 1,075"
+425,El Mentidero de León,7.3,"León, 25, Centro, 28014 Madrid, Spain","€ 1,002"
+426,Las Minas de Malasaña,7.3,"Calle de las Minas, Centro, 28004 Madrid, Spain","€ 1,002"
+427,El Olivar de la Paz,7.3,"Olivar, bajo, Izquierda, Centro, 28012 Madrid, Spain","€ 1,017"
+428,La Costanilla de los Desamparados,7.3,"Costanilla de los Desamparados, 11, Centro, 28014 Madrid, Spain","€ 1,017"
+429,ático barrio de las letras,7.3,"AMOR DE DIOS, 8, Centro, 28014 Madrid, Spain",€ 945
+430,Solfai Vacacional 19,7.3,"16 Ronda de Valencia, Centro, 28012 Madrid, Spain",€ 478
+431,Solfai Vacacional 15,7.4,"16 Ronda de Valencia, Centro, 28012 Madrid, Spain",€ 478
+432,,,"Centro, 28012 Madrid, Spain","€ 1,608"
+433,Hostal La Casa de La Plaza,7.4,"Plaza de San Miguel, 5, Centro, 28005 Madrid, Spain",€ 388
+434,PYR Select Gran Via VIII,7.3,"8 Calle de Valverde Piso 2 puerta 2B, Centro, 28004 Madrid, Spain",€ 546
+435,Minty Stay - Valverde,7.3,"Calle Valverde 19, Esc Int, 3 drcha, Centro, 28004 Madrid, Spain",€ 553
+436,Acogedor y silencioso estudio M1 Embajadores,7.2,"80 Calle del Mesón de Paredes, Centro, 28012 Madrid, Spain",€ 479
+437,STYLISH NEST 1BD PLAZA MAYOR - SOL,7.2,"Calle de Santa Isabel, 26, Centro, 28012 Madrid, Spain",€ 646
+438,MOLINA - LA LATINA,7.2,"6 Calle del Calvario 4º B, Centro, 28012 Madrid, Spain",€ 536
+439,PYR Select La Libertad,7.1,"Gravina 11, Centro, 28004 Madrid, Spain",€ 748
+440,Solfai Vacacional 32,7.1,"16 Ronda de Valencia, Centro, 28012 Madrid, Spain",€ 522
+441,"Almadén, la Travesía del Paseo Del Prado - Retiro",7.1,"Calle de Almadén, 1, Centro, 28014 Madrid, Spain",€ 969
+442,Esperanza Modern y luxury space near Plaza Mayor,7.3,"10 Calle del Sacramento, Centro, 28005 Madrid, Spain",€ 564
+443,Apartamento St Barbara-Madrid,7.2,"5 Calle de Santa Bárbara, Centro, 28004 Madrid, Spain",€ 717
+444,Solfai Vacacional 52,7.2,"Calle de la Ballesta 14 1º Interior Derecha, Centro, 28004 Madrid, Spain",€ 419
+445,Modern 1 Bedroom Apartment near Lavapies,7.3,"Centro, 28012 Madrid, Spain",€ 875
+446,Silencioso apartamento en Bailén-La Latina,7.0,"47 Calle de Bailén, Centro, 28005 Madrid, Spain",€ 833
+447,apartamento en plaza de lavapies,7.0,"ZURITA, 32, Centro, 28012 Madrid, Spain",€ 995
+448,Precioso Apartamento Reformado cerca del Centro,7.0,"90 Calle del Amparo, Centro, 28012 Madrid, Spain",€ 555
+449,La Iglesia de Atocha,7.0,"Calle Atocha, Centro, 28012 Madrid, Spain","€ 1,017"
+450,Genteel Home Huertas,8.8,"Calle de las Huertas, 67, Centro, 28014 Madrid, Spain","€ 1,254"
+451,BNBHolder Always Happy La Latina,9.0,"Calle de Rodas, Centro, Madrid, Spain",€ 827
+452,BNBHolder Refined Duplex MALASAÑA,8.5,"13 Calle de Colón, Centro, 28004 Madrid, Spain","€ 1,789"
+453,Modern Cozy 1 Bedroom Apartment near city centre,,"Centro, 28012 Madrid, Spain",€ 973
+454,,,"5 Calle de Santa Bárbara, Centro, 28004 Madrid, Spain",€ 717
+455,SmartRental Madrid La Latina,6.8,"Calle del Mesón de Paredes 84, Centro, 28012 Madrid, Spain",€ 684
+456,"Atico x 9 pax, con gran terraza en el La Latina!",7.0,"6 Calle de Santa Ana, Centro, 28005 Madrid, Spain","€ 1,928"
+457,Spacious flat puerta del sol,8.1,"9 Calle de Espoz y Mina 2º1 i, Centro, 28012 Madrid, Spain","€ 1,032"
+458,"Huertas, 58",8.3,"Calle Huertas, 58, 3º A, Centro, 28014 Madrid, Spain","€ 1,078"
+459,,,"Sagasta, 22, Centro, 28004 Madrid, Spain",€ 576
+460,Smiling Apartment Near Puerta del Sol by Batuecas,8.7,"2 Calle Encomienda 2do DCHA, Centro, 28012 Madrid, Spain","€ 1,472"
+461,Gran Via Central Lovely Private apt in the Heart of Chueca,8.2,"28 Calle de Pelayo, Centro, 28004 Madrid, Spain",€ 881
+462,Romantic Central Terrace,8.3,"Calle Corredera Alta de San Pablo, 31, 4C, Centro, 28004 Madrid, Spain","€ 1,623"
+463,Los Aposentos de Barceló,5.9,"Calle Barceló, Centro, 28015 Madrid, Spain","€ 1,017"
+464,Hostal San Antonio,8.1,"Leon, 13, 2º , Centro, 28014 Madrid, Spain",€ 475
+465,El Mentidero de León,7.3,"León, 25, Centro, 28014 Madrid, Spain","€ 1,002"
+466,"Calle de Felipe III, 7",4.8,"Calle de Felipe III, 7 APARTAMENTO 1A, Centro, 28012 Madrid, Spain",€ 520
+467,HOMEABOUT SAN BERNARDO Apartment I,7.9,"28 Calle de San Bernardo 3º izquierda, Centro, 28015 Madrid, Spain",€ 724
+468,Ideal Apartamento en La Latina / Centro de Madrid,8.0,"77 Calle de Toledo, Centro, 28005 Madrid, Spain","€ 1,642"
+469,,,"8 Calle San Marcos, Centro, 28004 Madrid, Spain",€ 789
+470,Casa de huéspedes Mi lla,5.4,"Calle de San Millán, Centro, 28012 Madrid, Spain",€ 540
+471,BNBHolder Golden Triangle of Art CENTRE,9.0,"Calle del Doctor Fourquet, Centro, 28012 Madrid, Spain","€ 1,053"
+472,MIT House Malasana Studio en Madrid,6.7,"San Vicente Ferrer, 43, Centro, 28006 Madrid, Spain",€ 853
+473,,,"Calle Augusto Figueroa, 47, Centro, 28004 Madrid, Spain","€ 1,019"
+474,Woohoo Rooms Boutique Sol,9.3,"Calle de Carretas, 7, 3a y 4a planta, Centro, 28012 Madrid, Spain",€ 681
+475,San vicente Ferrer 22,8.4,"Calle de San vicente Ferrer, 22, 3ºExt Izquierda., Centro, 28004 Madrid, Spain",€ 629
+476,Malasaña Plaza by Madflats Collection,9.1,"16 Calle de San Joaquin, Centro, 28004 Madrid, Spain",€ 971
+477,Prado Apartment,8.6,"Calle de Almadén, Centro, 28014 Madrid, Spain","€ 1,457"
+478,MIT House Malasana Studio en Madrid,6.7,"San Vicente Ferrer, 43, Centro, 28006 Madrid, Spain",€ 895
+479,Príncipe Letras by Madflats Collection,8.4,"9 Calle del Príncipe, Centro, 28012 Madrid, Spain",€ 854
+480,Solfai Vacacional 19,7.3,"16 Ronda de Valencia, Centro, 28012 Madrid, Spain",€ 478
+481,Hostal Gran Via 44,7.4,"Gran Via, 44, 8 Derecha, Centro, 28013 Madrid, Spain","€ 1,204"
+482,Apartamentos Centro Jardines,8.4,"Calle de los Jardines, Centro, 28013 Madrid, Spain",€ 855
+483,Barbieri10 - Apartamento para 4 personas,,"10 Calle de Barbieri 3 izquierda, Centro, 28004 Madrid, Spain",€ 486
+484,,,"Calle Arenal 8, Centro, 28013 Madrid, Spain","€ 1,343"
+485,M-A Estudio Montera,8.0,"15 Calle de la Montera, Centro, 28013 Madrid, Spain",€ 444
+486,Cálamo Guesthouse,8.8,"Calle Lope de Vega 11, Planta 2ª, Centro, 28014 Madrid, Spain",€ 790
+487,Apartamentos El Rastro,9.7,"Carlos Arniches , Centro, 28005 Madrid, Spain","€ 2,067"
+488,PYR Select La Libertad,7.1,"Gravina 11, Centro, 28004 Madrid, Spain",€ 748
+489,La Fuentecilla Madrid Centro,5.7,"Calle de Toledo Portal 117, Centro, 28005 Madrid, Spain",€ 409
+490,,,"3 Calle de Manuela Malasana, Centro, 28004 Madrid, Spain",€ 863
+491,numa I Script,8.0,"Plaza de Las Cortes, 4, 7º Derecha, Centro, 28014 Madrid, Spain",€ 893
+492,MIT House Santa Ana Boutique en Madrid,6.0,"Huertas 3, 3, Centro, 28012 Madrid, Spain",€ 885
+493,La Guarda del Ángel,8.6,"Plaza Del Ángel, 1, Centro, 28012 Madrid, Spain","€ 1,017"
+494,Rooms San Marcos,8.0,"14 Calle de San Marcos, Centro, 28004 Madrid, Spain",€ 430
+495,Far Home Gran Vía,8.4,"Chinchilla, 1, Centro, 28013 Madrid, Spain",€ 470
+496,Art Seven Hostel Capsules,8.2,"Calle del Conde de Romanones 7 - Pie de Calle, Centro, 28012 Madrid, Spain",€ 316
+497,Hola Madrid,8.9,"Montera 33, esc B, 2ºA, Centro, 28013 Madrid, Spain",€ 913
+498,Akeah Hotel Gran Vía Adults Only,8.5,"Calle de San Bernardo 48, Centro, 28015 Madrid, Spain",€ 804
+499,AmazINN Places Gran Via II,8.0,"Calle de San Bernardo, Exterior, 27, Centro, 28015 Madrid, Spain",€ 712
+500,Minty Stay - Espoz y Mina,8.3,"Calle Espoz y Mina 20, 1º A, Centro, 28012 Madrid, Spain",€ 616
+501,Plaza de Chueca-Madrid Centro,,"Plaza de Chueca 8, 3 piso centro, Centro, 28004 Madrid, Spain","€ 1,115"
+502,La Guarda del Ángel,8.6,"Plaza Del Ángel, 1, Centro, 28012 Madrid, Spain","€ 1,017"
+503,CALLE MAYOR II,8.7,"C/ Calderon de la Barca, Centro, 28013 Madrid, Spain","€ 1,141"
+504,Apartamentos El Rastro,9.7,"Carlos Arniches , Centro, 28005 Madrid, Spain","€ 1,967"
+505,Malasaña Urban by Madflats Collection,8.7,"3 Calle de Manuela Malasana, Centro, 28004 Madrid, Spain",€ 863
+506,AmazINN Places Gran Via II,8.0,"Calle de San Bernardo, Exterior, 27, Centro, 28015 Madrid, Spain",€ 759
+507,Rooms San Marcos,8.0,"14 Calle de San Marcos, Centro, 28004 Madrid, Spain",€ 430
+508,Barbieri,8.2,"Calle de Barbieri, 3, Centro, 28004 Madrid, Spain",€ 509
+509,Luxurious Apartment in Calle Atocha by Batuecas,8.5,"Calle de Atocha, 55, Centro, 28012 Madrid, Spain","€ 1,142"
+510,Motion Chueca,5.3,"3 Plaza de Pedro Zerolo, Centro, 28004 Madrid, Spain",€ 266
+511,M-A Estudio Ejecutivo,8.5,"11 Plaza de los Mostenses, Centro, 28015 Madrid, Spain",€ 484
+512,"Espiritu Santo 39, 1º Izq",8.0,"Calle Espíritu Santo 39, 1º Izq, Centro, 28004 Madrid, Spain",€ 898
+513,AmazINN Places Plaza Canalejas II,8.0,"Calle Cruz, 1, Centro, 28012 Madrid, Spain","€ 1,340"
+514,Sonder Malasaña,9.2,"9 Calle del Divino Pastor, Centro, 28004 Madrid, Spain","€ 1,029"
+515,Suites You Nickel,7.7,"Calle Del Carmen 5, Centro, 28013 Madrid, Spain",€ 645
+516,Nuevo Apt de 7p entre la Cava Alta y la Cava Baja,8.0,"16 Calle de la Cava Alta, Centro, 28005 Madrid, Spain","€ 1,563"
+517,La Dualidad de Miguel Servet,6.5,"Calle de Miguel Servet 1, Centro, 28012 Madrid, Spain",
+518,Living Plaza Mayor Apartment,8.5,"Calle Felipe III, 7, Centro, 28012 Madrid, Spain","€ 2,133"
+519,"Amplio apartamento 2hab, 2 baños en calle Mayor",4.0,"63 Calle Mayor, Centro, 28005 Madrid, Spain",€ 855
+520,Acogedor estudio en la Calle Encomienda,5.3,"17 Calle de la Encomienda, Centro, 28012 Madrid, Spain",€ 500
+521,Hostal Carmen & Coworking,7.6,"Gran Vía 44, Centro, 28013 Madrid, Spain","€ 1,250"
+522,,,"Chinchilla, 1, Centro, 28013 Madrid, Spain",€ 345
+523,"Exclusive BANKSY DOWNTOWN, by MONARO*****",9.4,"Plaza de Tirso de Molina, Centro, 28012 Madrid, Spain","€ 4,017"
+524,2060 The Newton Hostel,8.8,"Calle de la Cabeza 11, Centro, 28012 Madrid, Spain",€ 629
+525,Living Plaza Mayor Apartment,8.5,"Calle Felipe III, 7, Centro, 28012 Madrid, Spain","€ 1,999"
+526,"Exclusive BANKSY DOWNTOWN, by MONARO*****",9.4,"Plaza de Tirso de Molina, Centro, 28012 Madrid, Spain","€ 4,218"
+527,Acogedor estudio en la Calle Encomienda,5.3,"17 Calle de la Encomienda, Centro, 28012 Madrid, Spain",€ 525
+528,Sonder Malasaña,9.2,"9 Calle del Divino Pastor, Centro, 28004 Madrid, Spain","€ 1,029"
+529,2060 The Newton Hostel,8.8,"Calle de la Cabeza 11, Centro, 28012 Madrid, Spain",€ 629
+530,"Amplio apartamento 2hab, 2 baños en calle Mayor",4.0,"63 Calle Mayor, Centro, 28005 Madrid, Spain",€ 855
+531,Far Home Gran Vía,8.4,"Chinchilla, 1, Centro, 28013 Madrid, Spain",€ 495
+532,ApARTment Madrid,9.3,"5 Calle del Codo, Centro, 28005 Madrid, Spain",€ 958
+533,Apartamentos Sol Mayor,7.2,"Calle Mayor, 1, Centro, 28013 Madrid, Spain",€ 753
+534,Hostal Carmen & Coworking,7.6,"Gran Vía 44, Centro, 28013 Madrid, Spain","€ 1,250"
+535,Cándido Apartamento en el Corazón de La Latina,,"3 Calle de las Aguas, Centro, 28005 Madrid, Spain","€ 1,194"
+536,Apartamento Vive en Maravillas,8.0,"Espiritu Santo no 3, 1o izqda., Centro, 28013 Madrid, Spain",€ 857
+537,Incredible Design 2 Bedroom Apartment in Centro,7.4,"Centro, 28012 Madrid, Spain","€ 1,687"
+538,Woohoo Rooms Hortaleza,9.2,"Calle de Hortaleza, 21, 2º, Centro, 28004 Madrid, Spain",€ 681
+539,Unbeatable views of Puerta del Sol by Batuecas,9.2,"Calle Mayor, 1, Centro, 28013 Madrid, Spain","€ 1,320"
+540,Malasaña Centric by Madflats Collection,8.8,"11 Calle de Carranza, Centro, 28004 Madrid, Spain",€ 940
+541,"Apartamento en SOL, Madrid Centro",7.7,"Calle Coloreros, Centro, 28013 Madrid, Spain",€ 895
+542,"NEW. Spacious flat, 2 bedrooms and 2 balconies",,"34 Calle de Jesús y María 1 IZQ, Centro, 28012 Madrid, Spain",€ 910
+543,Acogedor piso Madrid,8.0,"34 Calle de Jesús y María, Centro, 28012 Madrid, Spain",€ 528
+544,New Heima Homes Colon Square,7.3,"16 Calle del Marqués de la Ensenada Apartamento 921, Centro, 28004 Madrid, Spain",€ 995
+545,Malasaña Boutique by Madflats Collection,8.6,"3 Calle de Manuela Malasaña, Centro, 28004 Madrid, Spain",€ 865
+546,El Escondrijo de La Sierpe,6.6,"Sierpe, Centro, 28005 Madrid, Spain","€ 1,002"
+547,Palma66 - Apartamento individual en Malasaña 3 personas,,"66 Calle de la Palma, Centro, 28015 Madrid, Spain",€ 394
+548,Social - kitchen home - apartment Madrid,8.2,"5 Pasadizo de San Ginés, Centro, 28013 Madrid, Spain",€ 709
+549,Exquisite New apt en Gran Vía/Centro para 5pax,,"3 Calle de Silva 4 piso, Centro, 28013 Madrid, Spain","€ 1,366"
+550,Fuencarral Studio,8.1,"Calle de Augusto Figueroa, Centro, 28004 Madrid, Spain",€ 829
+551,Esperanza Modern y luxury space near Plaza Mayor,7.3,"10 Calle del Sacramento, Centro, 28005 Madrid, Spain",€ 538
+552,Silver Apartment Calle Toledo by Batuecas,6.4,"Calle de Toledo, 74, Centro, 28005 Madrid, Spain",€ 898
+553,El Escondrijo de La Sierpe,6.6,"Sierpe, Centro, 28005 Madrid, Spain","€ 1,002"
+554,Malasaña Boutique by Madflats Collection,8.6,"3 Calle de Manuela Malasaña, Centro, 28004 Madrid, Spain",€ 865
+555,Exquisite New apt en Gran Vía/Centro para 5pax,,"3 Calle de Silva 4 piso, Centro, 28013 Madrid, Spain","€ 1,262"
+556,Casa Malasaña,8.9,"Calle Acuerdo, Centro, 28015 Madrid, Spain","€ 1,294"
+557,Casa du Soleil,9.2,"Calle de San Pedro Mártir 9, Centro, 28012 Madrid, Spain","€ 1,466"
+558,Suitur Apartment Hita III Centro Madrid,8.2,"Miguel Moya4, 1, int dcha 3, Centro, 28004 Madrid, Spain",€ 555
+559,Apartamentos Cruz,8.8,"De la Cruz, 22, Centro, 28012 Madrid, Spain",€ 660
+560,GRAN VÍA / CHUECA Apartamentos,8.0,"3 Calle de las Infantas 1º IZQ, Centro, 28004 Madrid, Spain",€ 670
+561,Hostal Andrea,6.9,"31 Calle de Hortaleza, Centro, 28004 Madrid, Spain",€ 790
+562,La Palma de Mallorca,6.9,"Calle de Mallorca, Centro, 28012 Madrid, Spain","€ 1,017"
+563,Hospedaje Palma,8.1,"73 Calle de la Palma bajo 3, Centro, 28015 Madrid, Spain",
+564,HOMEnFUN Madrid La Latina,5.5,"34 Calle de Jesús y María, Centro, 28012 Madrid, Spain",€ 617
+565,Céntrico apartamento entre Sol Ópera y Pza Mayor,8.5,"Calle de la Flora, 1, Centro, 28013 Madrid, Spain",€ 841
+566,Oriente Suites,8.8,"Calle Escalinata 4, Centro, 28013 Madrid, Spain","€ 3,137"
+567,Estudios sol 208,6.3,"1 Calle Mayor, Centro, 28013 Madrid, Spain",€ 900
+568,"Madrid, C. Mayor",7.7,"31 Calle Mayor, Centro, 28012 Madrid, Spain",€ 430
+569,Apartamentos Day Madrid SILVA Centro Gran Via Sol Malasaña,7.1,"Calle Silva 16, Centro, 28004 Madrid, Spain","€ 1,074"
+570,,,"Tres Cruces, 3, Centro, 28013 Madrid, Spain",€ 719
+571,Ny Style Apt 5p en SanMateo centro Chueca/Justicia,7.8,"14 Calle de San Mateo Primero Izquierda, Centro, 28004 Madrid, Spain","€ 1,301"
+572,Luxury Apartment in Historic Center,8.7,"Plaza de la Villa, 1,  4 derecha, Centro, 28005 Madrid, Spain","€ 1,027"
+573,Apartamentos El Tiempo Madrid,7.8,"Barcelona, 4, Centro, 28012 Madrid, Spain",€ 660
+574,"vip CERVANTES, by MONARO*****",9.3,"14 Calle de San Agustín, Centro, 28014 Madrid, Spain","€ 3,530"
+575,PRINCESA V,8.1,"C/ Sta. Cruz de Marcenado, Centro, 28015 Madrid, Spain",€ 887
+576,calle Amparo100 Red brick loft for 8 Madrid Lavapies,9.0,"100 Calle del Amparo, Centro, 28012 Madrid, Spain","€ 1,017"
+577,Plaza de Cibeles II,5.9,"42 Calle de San Marcos, Centro, 28004 Madrid, Spain",€ 924
+578,Hostal Numancia,6.3,"Magdalena, 8, Centro, 28012 Madrid, Spain",€ 272
+579,Nuevo piso para 7 en el corazón del Rastro/Madrid,8.0,"16 Calle de Juanelo Bajo derecha, Centro, 28012 Madrid, Spain","€ 1,642"
+580,,,"17 Calle de Gravina 5D, Centro, 28004 Madrid, Spain",€ 455
+581,Acogedor ático en el centro de Madrid Ave Maria,6.6,"22 Calle del Ave María, Centro, 28012 Madrid, Spain",€ 475
+582,M&F 7 ROOMS/7 BATHROOMS OVER GRAN VIA,8.5,"16 Calle Gran Vía, Centro, 28013 Madrid, Spain","€ 3,162"
+583,AmazINN Places Chueca,6.8,"De las Infantas, 10, Centro, 28004 Madrid, Spain",€ 888
+584,,,"Calle de las Minas, Centro, 28004 Madrid, Spain","€ 1,002"
+585,Centro Embajadores / Luxury Apartment,6.6,"Calle de la Huerta del Bayo, Centro, 28005 Madrid, Spain",€ 555
+586,Apartamento de lujo en el corazón de Madrid self check-in,9.1,"14 Carrera de San Jerónimo, Centro, 28014 Madrid, Spain","€ 1,990"
+587,"SOL II PRIME, by Presidence Rentals",,"17 Calle del Carmen, Centro, 28013 Madrid, Spain",€ 974
+588,PYR Select La Latina XII,8.6,"10 Calle de la Cava Alta Bajo Derecha, Centro, 28005 Madrid, Spain","€ 1,081"
+589,BNBHolder Charming & Stylish III CHUECA,9.5,"Centro, 28004 Madrid, Spain",€ 923
+590,MIT House NoMad Latina Terrace en Madrid,8.1,"Santa Ana, 27, Centro, 28005 Madrid, Spain","€ 1,134"
+591,AmazINN Places Gran Via III,3.5,"San Bernardo, 27, Centro, 28015 Madrid, Spain",€ 771
+592,MIT House Prado III - en Madrid,9.4,"Cervantes, 19, Centro, 28014 Madrid, Spain","€ 1,542"
+593,Almaden Apartment,4.8,"20 Calle de Almadén BAJO IZQUIERDA, Centro, 28014 Madrid, Spain",€ 505
+594,AmazINN Places Noviciado 12,8.5,"Calle del Noviciado, 9, Centro, 28015 Madrid, Spain",€ 657
+595,HOMEABOUT PREMIUM ROYAL PALACE Penthouse,9.1,"11 Calle de los Caños del Peral, Centro, 28013 Madrid, Spain","€ 2,765"
+596,Redondilla Apartment,7.8,"Calle Redondilla 10, 2 - 3, Centro, 28005 Madrid, Spain",€ 593
+597,BNBHolder Oasis GRAN VIA,8.3,"Calle Jardines, Centro, 28013 Madrid, Spain","€ 1,103"
+598,Apartamento amarillo en Atocha,6.5,"90 Calle de Atocha, Centro, 28012 Madrid, Spain",€ 506
+599,AmazINN Places Gran Via IV,3.3,"Calle de San Bernardo, Exterior, 27, Centro, 28015 Madrid, Spain",€ 722
+600,Stylish one bedroom flat in the heart of Madrid,8.8,"3 Calle de Luis Vélez de Guevara semisotano D, Centro, 28012 Madrid, Spain",€ 722
+601,Tesoro de madrid centro,4.7,"10 Calle del Tesoro, Centro, 28004 Madrid, Spain","€ 1,440"
+602,BNBHolder Apartamentos en Sol Confort 6,10,"Puerta del Sol, Centro, Madrid, Spain",€ 970
+603,Guernica III,6.7,"33 Calle de Santa Isabel 5º izquierda, Centro, 28012 Madrid, Spain",€ 623
+604,Santo Domingo Rooms,6.3,"10 Cuesta de Santo Domingo, Centro, 28013 Madrid, Spain",€ 540
+605,HOMEABOUT SAN BERNARDO Apartment II,7.3,"28 Calle de San Bernardo 3º D, Centro, 28015 Madrid, Spain",€ 754
+606,Rooms Barco,7.9,"7 Calle del Barco, Centro, 28004 Madrid, Spain",€ 410
+607,HABITACION PRIVADA EN PLENO CENTRO DE MADRID,8.6,"13 Calle de la Ruda, 3ro C exterior, Centro, 28005 Madrid, Spain",€ 266
+608,BNBHolder The Austrias Area II,8.0,"Calle de los Mancebos, Centro, 28005 Madrid, Spain",
+609,Palacio Real I,7.9,"calle del jerte, 4, Centro, 28024 Madrid, Spain","€ 1,047"
+610,,,"Calle de Peña de Francia, 6 Bajo 10, Centro, 28005 Madrid, Spain",€ 713
+611,Estudio Doble con Balcon en Madrid Centro (Chueca),7.6,"2 Plaza de Pedro Zerolo, Centro, 28004 Madrid, Spain",€ 599
+612,Apartamento moderno junto a la Gran Via,8.8,"11 Calle del Desengano 3o Interior Derecha, Centro, 28004 Madrid, Spain","€ 2,355"
+613,BNBHolder Apartamentos en Sol Confort 2,9.0,"Puerta del Sol, Centro, Madrid, Spain",€ 924
+614,Líbere Madrid Palacio Real,8.2,"Travesia de Trujillos, 3, Centro, 28013 Madrid, Spain",€ 702
+615,BNBHolder Harmony MALASAÑA,9.1,"Calle de Don Felipe, Centro, 28004 Madrid, Spain","€ 1,016"
+616,Hostal Pacios,7.2,"Atocha, 28 - 2º piso, Centro, 28012 Madrid, Spain",
+617,Studio Chueca,7.2,"calle San Lucas 3, Centro, 28004 Madrid, Spain",€ 397
+618,Plaza Chueca Apartment,8.6,"Calle de Gravina, Centro, 28004 Madrid, Spain","€ 1,132"
+619,,,"Calle de los Jardines, Centro, 28013 Madrid, Spain",€ 805
+620,Centric 1ºD,6.4,"5 Calle de Álvarez Gato, Centro, 28012 Madrid, Spain","€ 1,080"
+621,"C/ Almendro, Nuevo piso en el corazón de La Latina",9.0,"10 Calle del Almendro, Centro, 28005 Madrid, Spain","€ 1,301"
+622,BNBHolder Apartamentos en Sol Confort 7,,"Puerta del Sol, Centro, Madrid, Spain",€ 910
+623,Hostal Josefina,7.3,"Gran Via, 44, Centro, 28013 Madrid, Spain",€ 861
+624,Apartamentos Day Madrid BORREGO Centro Gran Via Sol Malasaña,7.1,"Calle Andrés Borrego 7, Centro, 28004 Madrid, Spain",€ 891
+625,AmazINN Places Lavapies II,7.5,"Argumosa, 11, Centro, 28012 Madrid, Spain","€ 2,449"
+626,New apartment in center Madrid!,,"7 Calle de la Paz, Centro, 28012 Madrid, Spain",€ 464
+627,Hostal Mendoza,8.0,"Chinchilla, 4. Piso 1 Derecha, Centro, 28013 Madrid, Spain",€ 661
+628,Brand New apartment at Madrid city center WiFi ATO55,10,"Calle de Atocha 55 - 4ºB, Centro, 28012 Madrid, Spain",€ 957
+629,Centric 3ºD,6.2,"5 Calle de Álvarez Gato, Centro, 28012 Madrid, Spain","€ 1,026"
+630,Apartmento Las Letras,9.8,"Calle Núñez de Arce, Centro, 28012 Madrid, Spain","€ 1,909"
+631,Living Plaza de la Paja,8.8,"3 Plaza de la Paja, Centro, 28005 Madrid, Spain",€ 989
+632,Stylish one bedroom flat in the heart of Madrid,8.8,"3 Calle de Luis Vélez de Guevara semisotano D, Centro, 28012 Madrid, Spain",€ 722
+633,GRAN VIA VALVERDE Apartaments & ROOMS TPH,5.4,"27 Calle de Valverde, Centro, 28004 Madrid, Spain",€ 438
+634,APARTAMENTO EN LAVAPIES PARA 4 PERSONAS,,"36 Calle del Olivar, Centro, 28012 Madrid, Spain",€ 580
+635,apartamento en lavapies de estilo industrial para 5 personas,8.0,"AVE MARIA, 40, Centro, 28012 Madrid, Spain",€ 983
+636,BNBHolder PALACIO DE CRISTAL es MIA,8.6,"Calle de Pizarro, Centro, 28004 Madrid, Spain","€ 1,046"
+637,Plaza Chueca Apartment,8.6,"Calle de Gravina, Centro, 28004 Madrid, Spain","€ 1,079"
+638,Precioso estudio en Lavapies Salitre,4.5,"32 Calle del Salitre, Centro, 28012 Madrid, Spain",€ 477
+639,Behap Madrid Gran Vía,6.8,"Isabel La Católica, 11, Centro, 28013 Madrid, Spain",€ 903
+640,Espoz habitaciones,6.6,"1 Calle de Espoz y Mina, Centro, 28012 Madrid, Spain",€ 540
+641,Las Letras I,6.0,"8 Calle de Núñez de Arce, Centro, 28012 Madrid, Spain","€ 1,080"
+642,Malasaña Downtown by Madflats Collection,8.6,"Calle Montserrat 4, Centro, 28015 Madrid, Spain",€ 742
+643,BNBHolder Awesome Duplex Attic SOL,8.4,"Calle Encomienda, Centro, 28012 Madrid, Spain","€ 1,275"
+644,Centro Colón,7.8,"16 Calle del Marqués de la Ensenada, Centro, 28004 Madrid, Spain",€ 896
+645,AmazINN Places Lavapies III,8.3,"Argumosa, 11, Centro, 28012 Madrid, Spain","€ 1,404"
+646,Hostal Casa Boutique,7.6,"Gravina 25   1º izquierda, Centro, 28004 Madrid, Spain",€ 520
+647,Apartamento confortable en Atocha,7.8,"Calle de Atocha, 90, Centro, 28012 Madrid, Spain",€ 642
+648,Room Plaza España,8.6,"67 Calle Gran Vía, Centro, 28013 Madrid, Spain","€ 1,683"
+649,Latina Palace by Madflats Collection,8.7,"10 Calle San Buenaventura, Centro, 28005 Madrid, Spain",€ 913
+650,Luna Apartment,8.5,"Calle de la Luna , Centro, 28004 Madrid, Spain",€ 936
+651,BNBHolder Apartamentos en Sol Confort 7,,"Puerta del Sol, Centro, Madrid, Spain",€ 970
+652,Studio Chueca,7.2,"calle San Lucas 3, Centro, 28004 Madrid, Spain",€ 408
+653,Hostal Pacios,7.2,"Atocha, 28 - 2º piso, Centro, 28012 Madrid, Spain",€ 303
+654,Centric 1ºD,6.4,"5 Calle de Álvarez Gato, Centro, 28012 Madrid, Spain","€ 1,080"
+655,SuperCool Apto en el corazón de Malasaña 7pax,8.4,"19 Calle del Tesoro Bajo Exterior Izquierda, Centro, 28004 Madrid, Spain","€ 1,642"
+656,Apartamentos Day Madrid BORREGO Centro Gran Via Sol Malasaña,7.1,"Calle Andrés Borrego 7, Centro, 28004 Madrid, Spain",€ 924
+657,Ikonik Gran Vía,5.2,"56 Calle Gran Vía, Centro, 28013 Madrid, Spain",€ 693
+658,Plaza Chueca Apartment,8.6,"Calle de Gravina, Centro, 28004 Madrid, Spain","€ 1,132"
+659,AmazINN Places Lavapies,7.3,"Calle de San Carlos, 6, Centro, 28012 Madrid, Spain","€ 1,008"
+660,Mira el Sol,6.0,"Calle mira el sol 10, piso 2 puerta 7, Centro, 28005 Madrid, Spain",€ 460
+661,Estudio Madrid Centro MALASAÑA,8.3,"San Vicente Ferrer Calle 58 Bajo C, Centro, 28004 Madrid, Spain",€ 798
+662,Palacio Premium Stay,9.6,"3 Calle de Juan de Herrera 2B, Centro, 28013 Madrid, Spain","€ 2,637"
+663,"PLAZA MAYOR SUITE, by presidence rentals",8.0,"11 Calle Mayor, Centro, 28012 Madrid, Spain",€ 708
+664,PLAZA MAYOR groups by MONARO*****,8.6,"11 Cava de San Miguel, Centro, 28005 Madrid, Spain","€ 3,549"
+665,"groups ART-POP, by MONARO*****",8.2,"18 Calle de Monteleón 1D (DERECHA), Centro, 28004 Madrid, Spain","€ 2,801"
+666,New apartment in center Madrid!,,"7 Calle de la Paz, Centro, 28012 Madrid, Spain",€ 489
+667,Las Letras D,6.3,"8 Calle de Núñez de Arce, Centro, 28012 Madrid, Spain","€ 1,010"
+668,Apartment Madrid Lavapies-Reina Sofia,,"Calle del Amparo, Centro, 28012 Madrid, Spain",€ 442
+669,BNBHolder just in SOL,8.7,"Calle de Esparteros, Centro, 28012 Madrid, Spain","€ 1,267"
+670,FUENCARRAL-GRAN VIA ROOMS TPH,5.9,"35 Calle de Fuencarral, Centro, 28004 Madrid, Spain",€ 405
+671,El Olivar de la Paz,7.3,"Olivar, bajo, Izquierda, Centro, 28012 Madrid, Spain","€ 1,017"
+672,El Algannet de Leganitos,2.0,"Leganitos, Centro, 28012 Madrid, Spain","€ 1,017"
+673,Oshun - Wonderfull Apartment Tematic in Gran Via,7.7,"Calle del Caballero de Gracia, Centro, 28013 Madrid, Spain","€ 1,676"
+674,Room Plaza España,8.6,"67 Calle Gran Vía, Centro, 28013 Madrid, Spain","€ 1,710"
+675,Precioso estudio en Lavapies Salitre,4.5,"32 Calle del Salitre, Centro, 28012 Madrid, Spain",€ 470
+676,Centric 3ºD,6.2,"5 Calle de Álvarez Gato, Centro, 28012 Madrid, Spain","€ 1,080"
+677,AmazINN Places Lavapies II,7.5,"Argumosa, 11, Centro, 28012 Madrid, Spain","€ 2,449"
+678,Espoz habitaciones,6.6,"1 Calle de Espoz y Mina, Centro, 28012 Madrid, Spain",€ 505
+679,BNBHolder PALACIO DE CRISTAL es MIA,8.6,"Calle de Pizarro, Centro, 28004 Madrid, Spain",€ 995
+680,BNBHolder Awesome Duplex Attic SOL,8.4,"Calle Encomienda, Centro, 28012 Madrid, Spain","€ 1,275"
+681,apartamento en lavapies de estilo industrial para 5 personas,8.0,"AVE MARIA, 40, Centro, 28012 Madrid, Spain",€ 983
+682,"FRANCINA groups TEATRO REAL, by MONARO*****",9.9,"Calle de la Encarnación, Centro, 28013 Madrid, Spain","€ 4,374"
+683,APARTAMENTO EN LAVAPIES PARA 4 PERSONAS,,"36 Calle del Olivar, Centro, 28012 Madrid, Spain",€ 580
+684,GRAN VIA VALVERDE Apartaments & ROOMS TPH,5.4,"27 Calle de Valverde, Centro, 28004 Madrid, Spain",€ 438
+685,AmazINN Places Lavapies III,8.3,"Argumosa, 11, Centro, 28012 Madrid, Spain","€ 1,474"
+686,Centro Colón,7.8,"16 Calle del Marqués de la Ensenada, Centro, 28004 Madrid, Spain",€ 896
+687,Las Letras I,6.0,"8 Calle de Núñez de Arce, Centro, 28012 Madrid, Spain","€ 1,037"
+688,Apartamento confortable en Atocha,7.8,"Calle de Atocha, 90, Centro, 28012 Madrid, Spain",€ 642
+689,Cross Check - Plaza Mayor Apartment,8.6,"18 Calle de Juanelo, Centro, 28012 Madrid, Spain",€ 877
+690,BNBHolder Apartamentos en Sol Deluxe 3,9.5,"Puerta del Sol, Centro, Madrid, Spain","€ 1,013"
+691,Pensión Berti Madrid,6.8,"Calle Hortaleza 7, 2do Izquierda, Centro, 28004 Madrid, Spain","€ 1,400"
+692,SOL Montera The Palmer House,6.3,"HORTALEZA  18. patio entrega de llaves, Centro, 28013 Madrid, Spain",€ 767
+693,Room Plaza España,8.6,"67 Calle Gran Vía, Centro, 28013 Madrid, Spain","€ 1,710"
+694,Hostal Miami,7.6,"Gran Via, 44, 8 Izquierda, Centro, 28012 Madrid, Spain","€ 2,000"
+695,Apartamento moderno en edificio histórico,,"76 Calle de Atocha, Centro, 28012 Madrid, Spain",€ 501
+696,Hostal Sardinero,7.6,"Calle del Prado, 16 3a planta, Centro, 28014 Madrid, Spain","€ 2,000"
+697,BNBHolder OPERA es MIA,8.6,"Calle de Pizarro, Centro, 28004 Madrid, Spain","€ 2,018"
+698,BNBHolder Apartamentos en Sol Confort 2,9.0,"Puerta del Sol, Centro, Madrid, Spain",€ 910
+699,La Casa de Postas,7.0,"C/ Postas, 1, Centro, 28012 Madrid, Spain","€ 1,037"
+700,El Monasterio de Montserrat,4.8,"Calle del Montserrat, Centro, 28015 Madrid, Spain",€ 969
+701,Gran Vía Apartment,9.1,"Calle de las Tres Cruces, Centro, 28013 Madrid, Spain","€ 1,014"
+702,ático barrio de las letras,7.3,"AMOR DE DIOS, 8, Centro, 28014 Madrid, Spain",€ 887
+703,Príncipe David lV Luxury Apartmet Gran Via,9.0,"68 Calle Gran Vía 2º D, Centro, 28013 Madrid, Spain","€ 2,062"
+704,Casa Huésped Magdalena,6.3,"Magdalena, 26 3º, Centro, 28012 Madrid, Spain","€ 1,200"
+705,Hostal Matheu,7.4,"Victoria, 6, Centro, 28012 Madrid, Spain","€ 1,800"
+706,New Heima Homes Gran Vía A,8.7,"4 Calle de Muñoz Torrero 1ºA, Centro, 28004 Madrid, Spain",€ 790
+707,MIT House Bellas Artes en Madrid,8.3,"Madrazo, 8, Centro, 28014 Madrid, Spain","€ 1,672"
+708,Smartrental Collection Gran Vía Centric,8.8,"42 Calle Gran Vía, Centro, 28013 Madrid, Spain",€ 787
+709,MIT House Latina en Madrid,7.7,"Santa Ana, interior, 6, Centro, 28005 Madrid, Spain","€ 1,780"
+710,MintyStay 1BD - Las Letras,8.7,"Huertas 50, Centro, 28014 Madrid, Spain",€ 627
+711,Charming La Casa de La Luna,8.0,"11 Calle de la Luna, Centro, 28004 Madrid, Spain","€ 2,370"
+712,BNBHolder Adorable Studio Centre,,"Calle de Fray Ceferino González, Centro, 28012 Madrid, Spain",€ 669
+713,Velarde,8.7,"Calle de Velarde 12, Centro, 28004 Madrid, Spain",€ 864
+714,Apartamento Doble Exterior en la GRAN VIA de Madrid,7.7,"45 Calle Gran Vía, Centro, 28013 Madrid, Spain",€ 563
+715,Noviciado Apartment,9.6,"Calle de los Reyes, Centro, 28015 Madrid, Spain","€ 1,428"
+716,MIT House Plaza Mayor III en Madrid,7.7,"Imperial, 3, Centro, 28012 Madrid, Spain","€ 2,178"
+717,BNBHolder ATOCHA. SOL. LA LATINA,8.2,"Calle de San Ildefonso, Centro, 28012 Madrid, Spain",€ 931
+718,Plaza Mayor Rooms,3.6,"Calle de Zaragoza 7, Centro, 28012 Madrid, Spain",€ 307
+719,APARTMENT LOFT LAVAPIES,6.9,"8 Calle de la Sombrerería, Centro, 28012 Madrid, Spain",€ 765
+720,Elegante apt de 7 en el corazón de Chueca/Justicia,6.0,"28 Calle de Pelayo 1 Exterior, Centro, 28004 Madrid, Spain","€ 1,642"
+721,AmazINN Places Noviciado 2,8.3,"Calle del Noviciado, 9, Centro, 28015 Madrid, Spain",€ 736
+722,BNBHolder Love Madrid PLAZA DE ESPAÑA,8.2,"Plaza de España, Centro, 28008 Madrid, Spain",€ 926
+723,BNBHolder Fantasy MALASAÑA II,8.2,"Corredera Baja de San Pablo, Centro, 28004 Madrid, Spain",€ 806
+724,BNBHolder Apartamentos en Sol Deluxe 1,8.0,"Puerta del Sol, Centro, Madrid, Spain","€ 1,063"
+725,Enjoy a cosy studio in Malasaña BAR,,"Calle del Barquillo, Centro, 28004 Madrid, Spain",€ 514
+726,Apartamento La Latina II,,"Calle de Tabernillas 13, 2º I (izquierda), Centro, 28005 Madrid, Spain","€ 1,236"
+727,Malasaña Executive by Madflats Collection,9.4,"4 Calle de Manuela Malasana, Centro, 28004 Madrid, Spain",€ 957
+728,loft reformado en chueca para 4 personas,7.0,"SANTA BRIGIDA, 15, Centro, 28004 Madrid, Spain",€ 720
+729,BNBHolder Tropical CENTRE,7.9,"Calle del Tribulete, Centro, 28012 Madrid, Spain",€ 901
+730,Behap Madrid Plaza del Carmen,8.2,"36 Calle de Tetuán, Centro, 28013 Madrid, Spain","€ 3,796"
+731,Lovely 2 Bedroom Apartment in the heart of Chueca,8.0,"Centro, 28012 Madrid, Spain","€ 1,205"
+732,MIT House Echegaray en Madrid,7.7,"Echegaray, 17, Centro, 28014 Madrid, Spain","€ 1,755"
+733,Chueca Apartment,8.8,"Plaza de Pedro Zerolo, Centro, 28004 Madrid, Spain",€ 934
+734,Apartamento a dos pasos de la Plaza Mayor,7.9,"3 Calle de Cuchilleros, Centro, 28005 Madrid, Spain","€ 1,370"
+735,Agradable estudio 3 Personas / 2 camas en Gran Vía,,"45 Calle Gran Vía, Centro, 28013 Madrid, Spain",€ 619
+736,Oshun Puerta del Sol Deluxe,8.1,"Calle de Carretas 33 4 izquierda, Centro, 28012 Madrid, Spain","€ 2,658"
+737,Luxury Center 2 Bedrooms Apartment Puerta Del Sol,8.3,"43 Calle de Lavapiés, Centro, 28012 Madrid, Spain",€ 929
+738,MIT House Gran via Terrace en Madrid,7.9,"Calle Fuencarral, 35, Centro, 28004 Madrid, Spain","€ 3,680"
+739,San Jeronimo I,9.2,"Carrera San Jerónimo, Centro, 28014 Madrid, Spain",€ 889
+740,"Conde Duque Excellent, by Presidence Rentals",9.3,"8 Calle Bernardo López García, Centro, 28015 Madrid, Spain",€ 821
+741,BNBHolder Apartamentos en Sol Confort 4,8.0,"Puerta del Sol, Centro, Madrid, Spain",€ 970
+742,Apartamentos Chueca Gran via Marcos PARKING TPH,7.1,"C. de Hortaleza, 34  (ENTRADA POR SAN MARCOS), Centro, 28013 Madrid, Spain",€ 773
+743,Apartamento junto a Gran Vía,,"8 Calle de las Tres Cruces, Centro, 28013 Madrid, Spain",€ 860
+744,Carretas dúplex exterior,,"Calle de Carretas, Centro, 28012 Madrid, Spain","€ 2,733"
+745,Apartamento Diseño Chueca-Malasaña BRC40,6.3,"40 Calle del Barco 1º Interior 4, Centro, 28004 Madrid, Spain",€ 747
+746,Calle Rodas 3 Central 5 stars apartment in Madrid for 6 people,10,"Calle Rodas 3, Centro, 28005 Madrid, Spain",€ 839
+747,BNBHolder Group Luxury SOL,9.4,"Calle de Toledo, Centro, 28005 Madrid, Spain","€ 3,007"
+748,AmazINN Places Noviciado 5,5.0,"Calle del Noviciado, 9, Centro, 28015 Madrid, Spain",€ 766
+749,BNBHolder MALASAÑA es MIA,9.1,"Calle de Pizarro, Centro, 28004 Madrid, Spain","€ 1,547"
+750,GS Latina,7.5,"Calle de Embajadores 1, 3ª Planta, Centro, 28012 Madrid, Spain","€ 1,140"
+751,BNBHolder Group Luxury SOL,9.4,"Calle de Toledo, Centro, 28005 Madrid, Spain","€ 3,007"
+752,Calle Rodas 3 Central 5 stars apartment in Madrid for 6 people,10,"Calle Rodas 3, Centro, 28005 Madrid, Spain",€ 878
+753,NEW design apartment Puerta del Sol PRE10C,7.7,"10 Calle de Preciados, Centro, 28013 Madrid, Spain",€ 929
+754,AmazINN Places Noviciado 5,5.0,"Calle del Noviciado, 9, Centro, 28015 Madrid, Spain",€ 805
+755,BNBHolder MALASAÑA es MIA,9.1,"Calle de Pizarro, Centro, 28004 Madrid, Spain","€ 1,571"
+756,Plaza España,7.1,"Calle de los Reyes 11, Centro, 28015 Madrid, Spain","€ 1,033"
+757,MIT House Canalejas en Madrid,7.8,"Nuñez de Arce, 6, Centro, 28012 Madrid, Spain","€ 2,168"
+758,MIT House Cibeles Luxe in Madrid,8.2,"Madrazo, drch, 6, Centro, 28014 Madrid, Spain","€ 3,972"
+759,piso en lavapies 3 dormitorios 8 personas,,"AVE MARIA, 40, Centro, 28012 Madrid, Spain","€ 1,144"
+760,CHUECA I,9.2,"C/ Infantas, Centro, 28004 Madrid, Spain","€ 1,104"
+761,BNBHolder Vintage Caravaca II CENTRE,7.7,"Calle de Caravaca, Centro, 28012 Madrid, Spain",€ 714
+762,BNBHolder Rustic & Colorful SOL,8.0,"Calle Barcelona, Centro, 28012 Madrid, Spain","€ 1,108"
+763,Gran Vía 55 Exclusive Apartments,9.2,"Gran Via, 55, Centro, 28013 Madrid, Spain",€ 880
+764,Centro chueca,3.0,"15 Calle de San Marcos, Centro, 28004 Madrid, Spain","€ 1,515"
+765,BNBHolder Apartamentos en Sol Deluxe 2,,"Puerta del Sol, Centro, Madrid, Spain",€ 982
+766,MAYOR SQUARE by MONARO*****,9.1,"11 Cava de San Miguel 2izq, Centro, 28005 Madrid, Spain","€ 3,816"
+767,SmartRental Collection Gran Vía Capital,8.9,"14 Calle Gran Vía, Centro, 28013 Madrid, Spain","€ 1,112"
+768,Plaza del Ángel by Madflats Collection,9.0,"15 Plaza del Ángel, Centro, 28012 Madrid, Spain","€ 1,025"
+769,Callao Apartment,8.7,"Calle de Leganitos, Centro, 28013 Madrid, Spain","€ 1,096"
+770,Madrid de los Austrias,7.0,"Calle Cava Baja, Centro, 28005 Madrid, Spain",€ 779
+771,Estudio en Plaza Vara del Rey,4.8,"12 Plaza del General Vara de Rey, Centro, 28005 Madrid, Spain",€ 505
+772,apartamento en cava baja,7.7,"del ALMENDRO, 25, Centro, 28005 Madrid, Spain",€ 918
+773,BNBHolder Apartamentos en Sol Superior 2,9.0,"Puerta del Sol, Centro, Madrid, Spain","€ 1,013"
+774,"Precioso apartamento en Chueca, en Madrid.",,"Calle de Augusto Figueroa 2º derecha, 2, Centro, 28004 Madrid, Spain",€ 950
+775,BNBHolder Flowery PLAZA ESPAÑA,8.2,"Calle de Fomento, Centro, 28013 Madrid, Spain","€ 1,164"
+776,BNBHolder Don Quixote LAS LETRAS,6.6,"Calle de Cervantes, Centro, 28014 Madrid, Spain","€ 1,582"
+777,Estudio en Plaza Vara del Rey,4.8,"12 Plaza del General Vara de Rey, Centro, 28005 Madrid, Spain",€ 505
+778,Apartamento en la calle Hortaleza de Madrid Centro,7.5,"10 Calle de Hortaleza, Centro, 28004 Madrid, Spain",€ 792
+779,BNBHolder Bright Terrace CENTRE,8.3,"Calle Salitre, Centro, 28012 Madrid, Spain","€ 1,042"
+780,AmazINN Places Lavapies I,9.7,"Argumosa, 11, Centro, 28012 Madrid, Spain","€ 1,399"
+781,MIT House Embajadores Confort VII en Madrid,7.3,"Embajadores, 66, Centro, 28012 Madrid, Spain","€ 1,114"
+782,ático espacioso en malasaña,6.5,"ESPIRITU SANTO, 28, Centro, 28004 Madrid, Spain","€ 1,156"
+783,BNBHolder Apartamentos en Sol Confort 5,9.7,"Puerta del Sol, Centro, Madrid, Spain","€ 1,432"
+784,CH Olmedo,7.4,"Victoria, 8 4º Piso, Centro, 28012 Madrid, Spain","€ 1,200"
+785,Heima Homes Colon Amazing Views,9.1,"16 Calle del Marqués de la Ensenada Apartamento 11 - 17, Centro, 28014 Madrid, Spain",€ 902
+786,apartamento en malasaña,6.0,"SAN ANDRES, 36, Centro, 28004 Madrid, Spain",€ 801
+787,BNBHolder Apartamentos en Sol Confort 3,10,"Puerta del Sol, Centro, Madrid, Spain",€ 970
+788,BNBHolder Art Loft LA LATINA,8.0,"Calle de la Cava Alta, Centro, 28005 Madrid, Spain","€ 1,831"
+789,Exclusive Apartment in Historic Center,8.1,"1 Plaza de la Villa, Centro, 28005 Madrid, Spain",€ 730
+790,BNBHolder The Austrias Area,7.6,"Calle de Angosta de los Mancebos, Centro, 28005 Madrid, Spain","€ 1,134"
+791,Ever House - El CORAZON de CHUECA,9.7,"3 Calle de Pelayo, Centro, 28004 Madrid, Spain","€ 2,368"
+792,BNBHolder Peaceful & Elegant II LA LATINA,8.5,"Calle de Luciente, Centro, 28005 Madrid, Spain","€ 1,268"
+793,El Tesoro de Espiritu Santo,3.5,"C/Tesoro, 1, Centro, 28004 Madrid, Spain","€ 1,002"
+794,Duplex Lavapies 1BD,6.0,"35 Calle de Lavapiés, Centro, 28012 Madrid, Spain",€ 575
+795,BNBHolder Apartamentos en Sol Superior 1,9.0,"Puerta del Sol, Centro, Madrid, Spain","€ 1,013"
+796,Hostal Casa Chueca,8.7,"San Bartolome, 4 - 2º Izquierda, Centro, 28004 Madrid, Spain",€ 599
+797,ºº Latina Madrid City Centre ºº,9.5,"Calle de Embajadores, Centro, 28012 Madrid, Spain",€ 678
+798,Cruz 19,8.0,"Calle Cruz 19, 3º B, Centro, 28012 Madrid, Spain",€ 567
+799,MIT House San Miguel en Madrid,7.6,"Espejo, 9, Centro, 28005 Madrid, Spain","€ 2,804"
+800,ºº Latina Madrid City Centre ºº,9.5,"Calle de Embajadores, Centro, 28012 Madrid, Spain",€ 625
+801,Cebada habitaciones,,"Plaza de la Cebada, Centro, 28005 Madrid, Spain","€ 1,023"
+802,Avant-Garde Mayor XI,,"11 Calle Mayor, Centro, 28012 Madrid, Spain","€ 1,330"
+803,Cruz 19,8.0,"Calle Cruz 19, 3º B, Centro, 28012 Madrid, Spain",€ 595
+804,MIT House San Miguel en Madrid,7.6,"Espejo, 9, Centro, 28005 Madrid, Spain","€ 2,804"
+805,BNBHolder Apartamentos en Sol Superior 1,9.0,"Puerta del Sol, Centro, Madrid, Spain","€ 1,063"
+806,Hostal Casa Chueca,8.7,"San Bartolome, 4 - 2º Izquierda, Centro, 28004 Madrid, Spain",€ 599
+807,Duplex Lavapies 1BD,6.0,"35 Calle de Lavapiés, Centro, 28012 Madrid, Spain",€ 567
+808,Infantas Gran Vía 1D,7.9,"13 Calle de las Infantas, Centro, 28004 Madrid, Spain",€ 943
+809,Royal Madrid by Madflats Collection,10,"Ave María, 20, Centro, 28012 Madrid, Spain",€ 970
+810,Oshun - Cozy Apartment in Malasaña,7.9,"22 Calle de San Vicente Ferrer, Centro, 28004 Madrid, Spain","€ 1,005"
+811,FREE WiFi Apartamento Malasaña Madrid Centro MAL27,6.7,"27 Calle de Manuela Malasaña 3ºA, Centro, 28004 Madrid, Spain",€ 957
+812,La Morada de Espiritu Santo,4.0,"C/Espíritu Santo, Centro, 28004 Madrid, Spain","€ 1,002"
+813,BNBHolder LUXE ATOCHA STATION,8.8,"Ronda de Atocha, Centro, 28012 Madrid, Spain","€ 2,290"
+814,One bedroom appartement with wifi at Madrid,10,"Calle Echegaray 12 , Centro, 28014 Madrid, Spain",€ 806
+815,"PENTHOUSE deluxe GRANVIA, by MONARO",8.7,"Calle de San Bernardo, 13 , Centro, 28015 Madrid, Spain","€ 5,128"
+816,Chueca Boutique - MADFlats Collection,8.0,"36 Calle de Fuencarral, Centro, 28004 Madrid, Spain",€ 870
+817,Malasaña Suite by Madflats Collection,8.7,"19 Calle Santa Lucia, Centro, 28004 Madrid, Spain",€ 938
+818,FUENCARRAL BARCELO Apartaments TPH,6.7,"3 Calle de Santa Brígida, Centro, 28004 Madrid, Spain",€ 813
+819,CH Otello Rooms I - Madrid,6.7,"Campomanes, 6, 3º, Centro, 28013 Madrid, Spain","€ 2,385"
+820,1 bedroom 1 bathroom furnished - Cozy- Las Letras - MintyStay,,"Calle Moratin 30 2int derecha, 28014 Madrid, Centro, 28014 Madrid, Spain",€ 642
+821,"Apartment Fresa, 3",6.3,"Fresa, 3, Centro, 28012 Madrid, Spain","€ 1,192"
+822,Minty Stay 1BD - Lavapies,7.4,"zurita 33, Centro, 28012 Madrid, Spain",€ 708
+823,New Heima Homes Gran Vía B,8.6,"4 Calle de Muñoz Torrero 1ºB, Centro, 28004 Madrid, Spain",€ 793
+824,Apartamentos Eloísa,7.6,"Calle del Amparo, Centro, 28012 Madrid, Spain",€ 669
+825,SOL & Gran Vía: experiencia de diseño y comodidad.,9.2,"1 Calle de San Alberto, Centro, 28013 Madrid, Spain","€ 2,611"
+826,BNBHolder Group Stunning SOL,9.2,"Calle Olivar, Centro, 28012 Madrid, Spain","€ 2,726"
+827,BNBHolder LUXE ATOCHA STATION,8.8,"Ronda de Atocha, Centro, 28012 Madrid, Spain","€ 2,290"
+828,LA LATINA VII,7.4,"Travesia del Almendro, Centro, 28005 Madrid, Spain",€ 825
+829,BNBHolder The Iconic JUSTICIA,9.0,"Calle de Regueros, Centro, 28004 Madrid, Spain","€ 1,754"
+830,MIT House San Miguel en Madrid,7.6,"Espejo, 9, Centro, 28005 Madrid, Spain","€ 2,669"
+831,BNBHolder Rustic Group GRAN VÍA & SOL,8.3,"Calle de la Montera, Centro, 28013 Madrid, Spain","€ 1,719"
+832,SOL- CARLOS V Apartaments,7.0,"DE LA MONTERA 21-19, Centro, 28013 Madrid, Spain",€ 956
+833,BNBHolder GRAN VIA es MIA,9.3,"Calle de Pizarro, Centro, 28004 Madrid, Spain","€ 1,777"
+834,Heima Homes Plaza Mayor - Latina 32,9.2,"32 Calle de la Cava Baja, Centro, 28005 Madrid, Spain","€ 1,725"
+835,Latina Embajadores - Large and Bright,,"Calle San Cayetano 3 antiguo, Centro, 28005 Madrid, Spain",€ 990
+836,Great apartment in the center of Madrid (with AC),7.7,"10 Calle de San Pedro Martir 2d, Centro, 28012 Madrid, Spain","€ 1,178"
+837,Lovely Studio for 2 - La Latina III,9.0,"Plaza de los Carros, Centro, 28005 Madrid, Spain",€ 782
+838,MIT House Plaza Mayor Terrace en Madrid,7.7,"Calle Concepción Jerónima 5, 5, Centro, 28012 Madrid, Spain","€ 2,809"
+839,pequeño apartamento reformado en el centro,,"BUENA VISTA, 12, Centro, 28012 Madrid, Spain",€ 645
+840,New Heima Homes Gran Vía B,8.6,"4 Calle de Muñoz Torrero 1ºB, Centro, 28004 Madrid, Spain",€ 793
+841,BNBHolder Cosy & Modern SOL,8.2,"Callejón dela Concepción Jerónima, Centro, 28012 Madrid, Spain",€ 885
+842,BNBHolder TopDesign CENTRE,8.6,"Calle de los Cabestreros, Centro, 28012 Madrid, Spain",€ 869
+843,Beautiful and comfortable flat in center of Madrid,8.4,"Calle de Ventura de la Vega 12, Centro, 28014 Madrid, Spain","€ 1,486"
+844,Cebada habitaciones,,"Plaza de la Cebada, Centro, 28005 Madrid, Spain","€ 1,076"
+845,Jerte,7.3,"Calle Jerte Número 6 4ºA, Centro, 28005 Madrid, Spain",€ 471
+846,Mini duplex close plaza mayor,5.8,"Calatrava, Centro, 28005 Madrid, Spain",€ 840
+847,AmazINN Places Atico Plaza Santa Ana,4.5,"Calle de Alvarez Gato, 9, Centro, 28012 Madrid, Spain","€ 2,655"
+848,For You Rentals Universidad Apartment EST8,5.8,"8 Calle del Espíritu Santo Exterior 1º Derecha, Centro, 28004 Madrid, Spain","€ 1,004"
+849,MIT House Zoko Suites en Madrid,7.4,"Fray Ceferino Gonzalez, 3, Centro, 28005 Madrid, Spain","€ 3,451"
+850,El Laurel de Pizarro,5.4,"Pizarro, Centro, 28004 Madrid, Spain",€ 979
+851,En las nubes de Madrid! Ático c/ Fuencarral,7.6,"Calle Fuencarral 22, Centro, 28004 Madrid, Spain",€ 915
+852,AmazINN Places Atico Plaza Santa Ana,4.5,"Calle de Alvarez Gato, 9, Centro, 28012 Madrid, Spain","€ 2,655"
+853,AmazINN Places Atico Plaza Mayor,7.4,"De Postas, 12 - 14, Centro, 28012 Madrid, Spain",€ 910
+854,Fuencarral V,7.5,"5 Calle de Fuencarral, Centro, 28004 Madrid, Spain","€ 1,959"
+855,BNBHolder Charming Duplex Attic SOL,8.0,"Calle de Cádiz, Centro, 28012 Madrid, Spain","€ 1,198"
+856,Malasaña Center by Madflats Collection,9.3,"27 Calle de Valverde, Centro, 28004 Madrid, Spain",€ 875
+857,BNBHolder The Superb SOL,8.3,"Calle de Núñez de Arce, Centro, 28012 Madrid, Spain","€ 1,887"
+858,El Pasaje,8.0,"Pozo, 4, Centro, 28012 Madrid, Spain","€ 1,800"
+859,BNBHolder Black & Yellow Design SOL,8.5,"Calle de los Jardines, Centro, 28013 Madrid, Spain","€ 1,613"
+860,Big Apartment in Plaza Mayor in Madrid Spain,8.0,"2 Calle de Toledo, Centro, 28005 Madrid, Spain","€ 3,075"
+861,Apartamento en el centro la ciudad,,"12 Calle de Barcelona 2º 1, Centro, 28012 Madrid, Spain",€ 785
+862,Heima Homes Puerta del Sol - Plaza Santa Ana,9.3,"Calle del Prado 8, Centro, 28014 Madrid, Spain","€ 3,476"
+863,Luminoso apartamento con terraza en Sol,,"2 Calle de Espoz y Mina 5º 4, Centro, 28012 Madrid, Spain",€ 745
+864,BNBHolder Charming & Stylish CHUECA,8.6,"Calle de Augusto Figueroa, Centro, 28004 Madrid, Spain","€ 1,089"
+865,Céntrico y cómodo apto en Opera - Palacio Real,6.7,"17 Calle de la Escalinata, Centro, 28013 Madrid, Spain",€ 752
+866,Callao - penthouse with terrace,,"8 Calle de las Navas de Tolosa, Centro, 28013 Madrid, Spain","€ 2,980"
+867,Valverde Apartment,8.0,"Calle Valverde 19, Esc Interior 3º Izq, Centro, 28004 Madrid, Spain",€ 534
+868,Condo San Bernardino by Kivoya,8.0,"C/ San Bernardino 5, Centro, 28015 Madrid, Spain","€ 1,867"
+869,MIT House Tirso III en Madrid,7.0,"Meson de Paredes 8, 3º Izquierda, 8, Centro, 28012 Madrid, Spain","€ 2,198"
+870,CH Plaza D'Ort Rooms Madrid,5.5,"Plaza del Angel, 13 - 1º,2º-4º, Centro, 28012 Madrid, Spain","€ 2,194"
+871,BNBHolder SKY OF MADRID es MIA,8.5,"Calle de Pizarro, Centro, 28004 Madrid, Spain","€ 2,153"
+872,"Apartamento Madrid, 1 dormitorio, 3 personas - ES-183-53",,"LAVAPIES 4, Centro, 28013 Madrid, Spain",€ 600
+873,Apartamentos Day Madrid BORREGO Centro Gran Via Sol Malasaña,7.1,"Calle Andrés Borrego 7, Centro, 28004 Madrid, Spain",€ 924
+874,Charming Gran Vía Luna,6.6,"11 Calle de la Luna, Centro, 28004 Madrid, Spain","€ 1,242"
+875,Suitur Apartment Hita I Centro Madrid,7.8,"Miguel Moya4, 1, int dcha 1, Centro, 28004 Madrid, Spain",€ 555
+876,Luminoso y amplio apartamento en Ópera,,"4 Calle de la Unión, Centro, 28013 Madrid, Spain",€ 969
+877,"Apartamento Madrid, 1 dormitorio, 3 personas - ES-183-53",,"LAVAPIES 4, Centro, 28013 Madrid, Spain",€ 600
+878,AmazINN Places Lavapies IV,5.5,"Argumosa, 11, Centro, 28012 Madrid, Spain",€ 969
+879,BNBHolder Charming & Stylish CHUECA,8.6,"Calle de Augusto Figueroa, Centro, 28004 Madrid, Spain","€ 1,163"
+880,Las Letras de Santa María,5.7,"Santa María, 1, Centro, 28014 Madrid, Spain","€ 1,017"
+881,Apartamentos Day Madrid VALVERDE Centro Gran Via Sol Malasaña,6.5,"Calle Valverde 3 Piso 3, Centro, 28020 Madrid, Spain",€ 711
+882,NEW design apartment Puerta del Sol PRE10A,7.8,"10 Calle de Preciados, Centro, 28013 Madrid, Spain","€ 1,004"
+883,Blume Cruz Suites,9.1,"De La Cruz, 35, Centro, 28012 Madrid, Spain",€ 754
+884,Valverde Apartment,8.0,"Calle Valverde 19, Esc Interior 3º Izq, Centro, 28004 Madrid, Spain",€ 494
+885,Apart Mesón Embajadores M3,6.3,"80 Calle del Mesón de Paredes, Centro, 28012 Madrid, Spain",€ 465
+886,Cozy Apartment Center Madrid - Malasaña,9.5,"41 Calle de Fuencarral, Centro, 28004 Madrid, Spain",€ 627
+887,My City Home - Acogedor apartamento en Chueca,,"8 Calle de Barbieri, Centro, 28004 Madrid, Spain","€ 1,007"
+888,"JACUZZI FULL exterior SOL, by MONARO*****",9.3,"1 Calle de San Alberto 2, Centro, 28013 Madrid, Spain","€ 4,203"
+889,MIT House Lindo en Madrid,6.1,"San Jose, 8, Centro, 28014 Madrid, Spain","€ 2,163"
+890,Metropolitan apartments,6.0,"20 Calle de Almadén, Centro, 28014 Madrid, Spain",€ 616
+891,Acogedor apt 3 habitaciones y terraza en el centro,8.8,"77 Calle de Toledo 1E EXT, Centro, 28005 Madrid, Spain","€ 1,568"
+892,BNBHolder SKY OF MADRID es MIA,8.5,"Calle de Pizarro, Centro, 28004 Madrid, Spain","€ 2,120"
+893,Charming Gran Vía Luna,6.6,"11 Calle de la Luna, Centro, 28004 Madrid, Spain","€ 1,242"
+894,apartamento en la latina para 4 personas,,"CALLE DE LA VILLA, 4, Centro, 28005 Madrid, Spain",€ 620
+895,El Mesón de Paredes,4.2,"Calle del Mesón de Paredes, 1, Centro, 28012 Madrid, Spain",€ 969
+896,MintyStay - San Marcos,,"calle San Marcos 12, Centro, 28004 Madrid, Spain",€ 589
+897,Agradable piso de 3 hab en El Rastro/Centro Madrid,5.0,"6 Calle de Santa Ana, Centro, 28005 Madrid, Spain","€ 1,516"
+898,"Apartamento Madrid, 1 dormitorio, 2 personas - ES-183-2",,"ZURITA 45, Centro, 28013 Madrid, Spain",€ 756
+899,"Apartamento Madrid, 1 dormitorio, 3 personas - ES-183-7",,"BUENA VISTA 12, Centro, 28013 Madrid, Spain",€ 757
+900,Gran Via Premium I,6.5,"Calle Gran Via, Centro, 28013 Madrid, Spain","€ 1,007"
+901,Apart Mesón Embajadores M3,6.3,"80 Calle del Mesón de Paredes, Centro, 28012 Madrid, Spain",€ 444
+902,Nice apartamento en el centro de Madrid/El Rastro,,"6 Calle de Santa Ana, Centro, 28005 Madrid, Spain","€ 1,516"
+903,"Apartamento Madrid, 1 dormitorio, 4 personas - ES-183-65",,"CALLE DE LA VILLA 4, Centro, 28005 Madrid, Spain",€ 730
+904,Modern Apartment in Toledo Street by Batuecas,6.5,"Calle de Toledo, 74, Centro, 28005 Madrid, Spain",€ 945
+905,New Heima Homes Gran Vía C,9.1,"4 Calle de Muñoz Torrero 1ºC, Centro, 28004 Madrid, Spain",€ 846
+906,"Apartamento Madrid, 1 dormitorio, 3 personas - ES-183-6",,"ESPIRITU SANTO 25, Centro, 28013 Madrid, Spain",€ 767
+907,Apartamentos Day Madrid HORNO Centro Gran Via Sol Malasaña,7.4,"CALLE TRAVESIA HORNO DE LA MATA 5, 2 PLANTA, Centro, 28004 Madrid, Spain",€ 873
+908,La Costanilla de los Desamparados,7.3,"Costanilla de los Desamparados, 11, Centro, 28014 Madrid, Spain","€ 1,017"
+909,BNBHolder Fantasy MALASAÑA I,7.7,"Corredera Baja de San Pablo, Centro, 28004 Madrid, Spain",€ 785
+910,Cozy 2Bed2Bath&Patio w BedBath in Mdrd's Center,6.0,"Centro, 28013 Madrid, Spain","€ 1,689"
+911,Oshun Gran Via,7.5,"Calle las Tres Cruces 12, Centro, 28013 Madrid, Spain","€ 1,468"
+912,Home Suite Home Gran Via,8.7,"Fuencarral, 4, Centro, 28004 Madrid, Spain",€ 671
+913,AmazINN Places Gran Via VI,5.0,"Calle  de San Bernardo, 25, Centro, 28015 Madrid, Spain",€ 949
+914,BNBHolder Living LA LATINA,8.9,"Calle de la Ruda, Centro, 28005 Madrid, Spain","€ 1,478"
+915,pequeño apartamento reformado en malasaña,,"ESPIRITU SANTO, 25, Centro, 28004 Madrid, Spain",€ 651
+916,AmazINN Places Gran Via V,5.7,"Calle de San Bernardo, Exterior, 27, Centro, 28015 Madrid, Spain",€ 813
+917,Genial Apartamento en La Latina Centro de Madrid,,"77 Calle de Toledo, Centro, 28005 Madrid, Spain","€ 1,563"
+918,Estudios 8,8.2,"Calle de los Estudios, 8, 4º B,, Centro, 28012 Madrid, Spain",€ 674
+919,BNBHolder Design Loft Duplex LA LATINA,7.8,"Calle de los Mancebos, Centro, 28005 Madrid, Spain","€ 1,882"
+920,"Apartamento Madrid, 1 dormitorio, 3 personas - ES-183-57",,"GOBERNADOR 22, Centro, 28013 Madrid, Spain",€ 834
+921,"Apartamento Madrid, 1 dormitorio, 4 personas - ES-183-1",,"OLIVAR 42, Centro, 28013 Madrid, Spain",€ 902
+922,"Apartamento Madrid, 1 dormitorio, 4 personas - ES-183-55",,"MOLINO DEL VIENTO 6, Centro, 28013 Madrid, Spain",€ 915
+923,"Apartamento Madrid, 1 dormitorio, 3 personas - ES-183-10",,"HORTALEZA 96, Centro, 28013 Madrid, Spain",€ 886
+924,Guernica II,5.6,"91 Calle del Amparo, Centro, 28012 Madrid, Spain",€ 612
+925,"Apartamento Madrid, 1 dormitorio, 4 personas - ES-183-55",,"MOLINO DEL VIENTO 6, Centro, 28013 Madrid, Spain",€ 915
+926,"Apartamento Madrid, 1 dormitorio, 4 personas - ES-183-26",,"DE LA Sombrerería 6, Centro, 28013 Madrid, Spain",€ 902
+927,BNBHolder JARDIN BOTANICO es MIA,9.4,"Calle de Pizarro, Centro, 28004 Madrid, Spain","€ 1,634"
+928,Rodas centro madrid,6.4,"Calle de Rodas, Centro, 28005 Madrid, Spain","€ 1,908"
+929,Exclusivo Apartamento en Sol,,"3 Calle de Espoz y Mina, Centro, 28012 Madrid, Spain","€ 1,523"
+930,"Apartamento Madrid, 1 dormitorio, 3 personas - ES-183-10",,"HORTALEZA 96, Centro, 28013 Madrid, Spain",€ 886
+931,Casa de Huespedes La Asturiana,6.1,"Paseo del Prado, 40, Centro, 28014 Madrid, Spain","€ 2,000"
+932,Nuevo y cómodo apartamento en el centro de madrid,,"77 Calle de Toledo 1F EXT, Centro, 28005 Madrid, Spain","€ 1,647"
+933,Apartamentos Day Madrid PIZARRO Centro Gran Via Sol Malasaña,7.6,"4 Calle de Pizarro, Centro, 28004 Madrid, Spain","€ 1,034"
+934,CH Barco,7.9,"Barco 13, 3º , Centro, 28004 Madrid, Spain","€ 3,996"
+935,"Apartamento Madrid, 1 dormitorio, 4 personas - ES-183-11",,"SAN ANDRES 36, Centro, 28013 Madrid, Spain",€ 931
+936,BNBHolder Apartamentos en Sol Confort 1,8.0,"Puerta del Sol, Centro, Madrid, Spain",€ 893
+937,Calle Amparo 86 Lujoso Dúplex con Jacuzzi en Lavapies especial parejas,,"86 Calle del Amparo local 3, Centro, 28012 Madrid, Spain","€ 1,520"
+938,Great views-Luxury apartment in central Gran Vía.,8.5,"CALLE GRAN VÍA 67 ESCALERA C, PLANTA 8, PUERTA D , Centro, 28013 Madrid, Spain",€ 870
+939,BNBHolder Step to SOL,7.3,"Calle de Barcelona, Centro, 28012 Madrid, Spain","€ 1,222"
+940,My City Home Fabuloso apartamento Sol VI,5.5,"1 Calle de Esparteros, Centro, 28013 Madrid, Spain","€ 1,443"
+941,Bright Centric Studio in La Latina,,"Centro, 28005 Madrid, Spain",€ 968
+942,Lovely apartment in the heart of Madrid,8.0,"17 Calle del Doctor Piga Apartment 1C, Centro, 28012 Madrid, Spain",€ 912
+943,Liv close to the plaza mayor,6.2,"Calle Sierpe, Centro, 28005 Madrid, Spain",€ 596
+944,Elegant 3 Bedroom in La Latina,4.3,"Centro, 28005 Madrid, Spain","€ 1,343"
+945,"Apartamento Madrid, 2 dormitorios, 5 personas - ES-183-15",,"AMOR DE DIOS 8, Centro, 28013 Madrid, Spain","€ 1,085"
+946,MIT House Malasaña Terrace en Madrid,7.3,"Santa Águeda, 1, Centro, 28004 Madrid, Spain","€ 1,667"
+947,"Apartamento Madrid, 1 dormitorio, 4 personas - ES-183-23",,"SANTA BRIGIDA 15, Centro, 28013 Madrid, Spain","€ 1,028"
+948,Principe I,,"Principe, Centro, 28012 Madrid, Spain","€ 1,146"
+949,ático reformado en plaza mayor,,"TOLEDO, 87, Centro, 28005 Madrid, Spain","€ 1,062"
+950,"Apartamento Madrid, 1 dormitorio, 3 personas - ES-183-29",,"del ALMENDRO 25, Centro, 28013 Madrid, Spain","€ 1,176"
+951,G Apartamento plaza mayor,7.2,"bastero , Centro, 28005 Madrid, Spain","€ 3,800"
+952,"Apartamento Madrid, 1 dormitorio, 4 personas - ES-183-5",,"AVE MARIA 40, Centro, 28013 Madrid, Spain","€ 1,129"
+953,Rustic Apartment with Terrace in Madrid,3.2,"Centro, 28012 Madrid, Spain","€ 1,744"
+954,BNBHolder Cosy MALASAÑA,7.1,"Calle Santa Lucía, Centro, 28004 Madrid, Spain",€ 976
+955,Luxury Suite - Prime Location,5.5,"5 Calle de la Esgrima Floor 1 - Apartment 2D, Centro, 28052 Madrid, Spain","€ 3,473"
+956,"Apartamento Madrid, 2 dormitorios, 6 personas - ES-183-61",,"VELARDE 3, Centro, 28004 Madrid, Spain","€ 1,076"
+957,Lovely apartment in the heart of Madrid,8.0,"17 Calle del Doctor Piga Apartment 1C, Centro, 28012 Madrid, Spain",€ 849
+958,"Apartamento Madrid, 2 dormitorios, 5 personas - ES-183-46",,"ZURITA 32, Centro, 28013 Madrid, Spain","€ 1,153"
+959,2 bedrooms 1 bathroom furnished - Centro - equipped & stylish - Minty Stay,7.0,"ave maria 5, Centro, 28012 Madrid, Spain",€ 691
+960,Explore a Walkable Neighborhood around a Comfy Apartment,8.0,"Calle de Almadén 26, Centro, 28014 Madrid, Spain","€ 1,416"
+961,Spacious 3 Bedroom Apartment in Centro,,"Centro, 28012 Madrid, Spain","€ 2,160"
+962,BNBHolder Valverde MALASAÑA,3.0,"Calle Valverde, Centro, 28004 Madrid, Spain","€ 1,177"
+963,BNBHolder EL RETIRO es MIA,8.7,"Calle de Pizarro, Centro, 28004 Madrid, Spain","€ 1,888"
+964,My City Home - Encantador apartamento en SOL VII,7.4,"1 Calle de Esparteros, Centro, 28013 Madrid, Spain",€ 981
+965,BNBHolder Friendly La Latina,7.5,"Calle de Embajadores, Centro, 28012 Madrid, Spain","€ 1,125"
+966,Juan close to the gran via,6.1,"Calle Juanelo , Centro, 28005 Madrid, Spain",€ 566
+967,Nice apartment center 2 pax PLAZA SANTA ANA III,10,"C/ Prado, Centro, 28014 Madrid, Spain","€ 1,038"
+968,"Apartamento Madrid, 1 dormitorio, 4 personas - ES-183-21",,"TOLEDO 87, Centro, 28013 Madrid, Spain","€ 1,217"
+969,HomeAbroad Apartments - Super Deluxe Madrid Center,9.5,"Calle del Duque de Alba, Centro, 28012 Madrid, Spain","€ 6,548"
+970,"Apartamento Madrid, 1 dormitorio, 4 personas - ES-183-4",,"LOPE DE VEGA 13, Centro, 28013 Madrid, Spain","€ 1,164"
+971,"Cozy apartamento en La Latina, el centro de Madrid",7.0,"77 Calle de Toledo 3B INT, Centro, 28005 Madrid, Spain","€ 1,647"
+972,"Apartamento Madrid, 3 dormitorios, 7 personas - ES-183-72",,"AVE MARIA 40, Centro, 28013 Madrid, Spain","€ 1,305"
+973,Huertas IV,10,"Calle Amor de Dios, Centro, 28014 Madrid, Spain",€ 969
+974,Estudio Puerta del Sol Esparteros,7.9,"Esparteros, 4, Centro, 28012 Madrid, Spain",€ 592
+975,"Apartamento Madrid, 3 dormitorios, 7 personas - ES-183-72",,"AVE MARIA 40, Centro, 28013 Madrid, Spain","€ 1,305"
+976,Magnifico piso en La Latina con vistas a Madrid,6.0,"Calle de Toledo 77 6D INTERIOR, Centro, 28005 Madrid, Spain","€ 1,647"
+977,Nuevo apt de7p en C/ Mayor 11 en la Puerta del Sol,10,"11 Calle Mayor, Centro, 28012 Madrid, Spain","€ 1,870"
+978,"Apartamento Madrid, 1 dormitorio, 4 personas - ES-183-4",,"LOPE DE VEGA 13, Centro, 28013 Madrid, Spain","€ 1,164"
+979,C/Huertas- El corazón de Madrid,8.6,"Calle de las Huertas 4, Centro, 28012 Madrid, Spain",€ 924
+980,BNBHolder Apartamentos en Sol Confort 8,9.5,"Puerta del Sol, Centro, Madrid, Spain","€ 1,351"
+981,Cozy apartment for 2 City center MADERA I,9.0,"Calle Madera, Centro, 28004 Madrid, Spain","€ 1,080"
+982,Apartamentos Day Madrid MOLINO Centro Gran Via Sol Malasaña,5.3,"Calle del Molino de Viento 7, Centro, 28004 Madrid, Spain",€ 873
+983,Apartamentos Principe 7,8.7,"7 Calle del Príncipe, Centro, 28012 Madrid, Spain",€ 836
+984,Precioso Apartamento Preciados PRE5B,7.6,"10 Calle de Preciados 5ºB, Centro, 28013 Madrid, Spain",€ 943
+985,My City Home Estudio en Malasaña,7.5,"Calle de la Palma nº 51, p1, A, Centro, 28004 Madrid, Spain",€ 971
+986,"Apartamento Madrid, 3 dormitorios, 7 personas - ES-183-56",,"ESPIRITU SANTO 28, Centro, 28013 Madrid, Spain","€ 1,329"
+987,MIT House Paseo del Prado II en Madrid,7.1,"Jesus, 2, Centro, 28014 Madrid, Spain","€ 2,208"
+988,Modern in Downtown area-2Beds 1Bath-Plaza Mayor,8.5,"5 Calle del Duque de Rivas, Centro, 28012 Madrid, Spain","€ 1,508"
+989,MIT House Principe Terrace en Madrid,7.0,"Principe, 16, Centro, 28012 Madrid, Spain","€ 1,552"
+990,Stylish Loft with 2 beedrooms 5pax en La Latina,,"12 Calle del Ángel, Centro, 28005 Madrid, Spain","€ 1,280"
+991,Luxury12 GRAN VIA,,"Corredera Baja de San Pablo, Centro, 28004 Madrid, Spain","€ 2,614"
+992,Apartamentos Day Madrid LEGANES Centro Gran Via Sol Malasaña,7.3,"Calle Marqués de Leganés 7, Centro, 28004 Madrid, Spain","€ 2,577"
+993,Apartamentos Day Madrid VALLE Centro Gran Via Sol Malasaña,4.7,"16 Calle de Jesús del Valle, Centro, 28004 Madrid, Spain",€ 899
+994,My City Home Acogedor apartamento en Reina Sofía,8.0,"25 Calle de Argumosa, Centro, 28012 Madrid, Spain",€ 991
+995,APARTAMENTOS SAN ANDRES,7.8,"4 Calle de los Mancebos, Centro, 28005 Madrid, Spain",€ 449
+996,Luxury6 GRAN VIA,,"Corredera Baja de San Pablo, Centro, 28004 Madrid, Spain","€ 3,680"
+997,Minty Stay - Santa Ana,8.3,"Plaza Santa Ana 10, 1 izq , Centro, 28012 Madrid, Spain","€ 1,873"
+998,For You Rentals Puerta del Sol apartment COR2,6.8,"2 Calle del Correo, Centro, 28012 Madrid, Spain",€ 823
+999,My City Home - Modern and bright apartment at La Latina,,"18 Calle de los Mancebos, Centro, 28005 Madrid, Spain","€ 1,042"
