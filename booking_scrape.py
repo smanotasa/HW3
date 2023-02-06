@@ -20,7 +20,7 @@ from datetime import date
 # %% Starting code
 
 
-#geko_path = r'C:\Users\santi\Documents\M_DSDM\Term_2\Text_Mining\HW3\geckodriver.exe'
+geko_path = r'C:\Users\santi\Documents\M_DSDM\Term_2\Text_Mining\HW3\geckodriver.exe'
 
 
 profile, browser, download_path = kzd.start_up()
